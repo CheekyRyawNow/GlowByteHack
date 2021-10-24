@@ -8,8 +8,8 @@ load_dotenv()
 
 LOGIN = os.getenv('LOGIN')
 PASSWORD = os.getenv('PASSWORD')
-START_OF_RANGE = 1000000
-END_OF_RANGE = 50000000
+ID_RANGE_START = 1000000
+ID_RANGE_END = 50000000
 GROUP_SIZE = 1000
 COMMON_FIELDS = [
     'id',
@@ -65,8 +65,9 @@ def save_users(users, fields, path_to_save):
 
 def parse_users():
     vk = connect_vk()
-    # To do random pick ids
-    ids = list(range(38 * GROUP_SIZE, 39 * GROUP_SIZE))
+    ids = []
+    for i in range(GROUP_SIZE):
+        ids.append(np.random.randint(ID_RANGE_START, ID_RANGE_END))
     users = vk.users.get(user_ids=ids, fields=(COMMON_FIELDS + PUBLIC_FIELDS))
     closed_users = []
     opened_users = []
