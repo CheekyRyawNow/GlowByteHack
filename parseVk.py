@@ -33,7 +33,6 @@ PUBLIC_FIELDS = [
 ]
 CLOSED_USERS_FILENAME = 'closed_users.csv'
 OPENED_USERS_FILENAME = 'opened_users.csv'
-#COMMON_FIELDS = ['id', 'first_name', 'last_name', 'sex', 'bdate', 'last_seen_time', 'last_seen_platform']
 
 
 def connect_vk():
@@ -55,7 +54,7 @@ def save_users(users, fields, path_to_save):
         if user['id'] not in data[:, 0]:
             new_row = []
             for field in fields:
-                if field not in user:
+                if field not in user or not user[field]:
                     user[field] = 'none'
                 new_row.append(user[field])
             data = np.vstack([data, new_row])
@@ -67,7 +66,7 @@ def save_users(users, fields, path_to_save):
 def parse_users():
     vk = connect_vk()
     # To do random pick ids
-    ids = list(range(39 * GROUP_SIZE, 40 * GROUP_SIZE))
+    ids = list(range(38 * GROUP_SIZE, 39 * GROUP_SIZE))
     users = vk.users.get(user_ids=ids, fields=(COMMON_FIELDS + PUBLIC_FIELDS))
     closed_users = []
     opened_users = []
