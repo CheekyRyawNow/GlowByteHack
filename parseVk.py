@@ -6,10 +6,8 @@ import numpy as np
 
 load_dotenv()
 
-#LOGIN = os.getenv('LOGIN')
-#PASSWORD = os.getenv('PASSWORD')
-LOGIN = ''
-PASSWORD = ''
+LOGIN = os.getenv('LOGIN')
+PASSWORD = os.getenv('PASSWORD')
 START_OF_RANGE = 1000000
 END_OF_RANGE = 50000000
 GROUP_SIZE = 1000
@@ -30,7 +28,7 @@ PUBLIC_FIELDS = [
     'connections',
     'contacts',
     'timezone',
-    'relation'
+    'relation',
     'games'
 ]
 CLOSED_USERS_FILENAME = 'closed_users.csv'
@@ -55,21 +53,13 @@ def save_users(users, fields, path_to_save):
         data = dataFrame.to_numpy()
     for user in users:
         if user['id'] not in data[:, 0]:
+            new_row = []
             for field in fields:
                 if field not in user:
                     user[field] = 'none'
-            newRow = [
-                user['id'],
-                user['first_name'],
-                user['last_name'],
-                user['sex'],
-                user['bdate'],
-                user['last_seen']['time'],
-                user['last_seen']['platform'],
-            ]
-            data = np.vstack([data, newRow])
+                new_row.append(user[field])
+            data = np.vstack([data, new_row])
     dataFrame = pd.DataFrame(data, columns=fields)
-    dataFrame.drop_duplicates(inplace=True)
     dataFrame.to_csv(path_to_save)
     return
 
@@ -77,8 +67,8 @@ def save_users(users, fields, path_to_save):
 def parse_users():
     vk = connect_vk()
     # To do random pick ids
-    ids = list(range(27 * GROUP_SIZE, 28 * GROUP_SIZE))
-    users = vk.users.get(user_ids=ids, fields=COMMON_FIELDS)
+    ids = list(range(39 * GROUP_SIZE, 40 * GROUP_SIZE))
+    users = vk.users.get(user_ids=ids, fields=(COMMON_FIELDS + PUBLIC_FIELDS))
     closed_users = []
     opened_users = []
     for user in users:
@@ -93,3 +83,4 @@ def parse_users():
 
 
 parse_users()
+print()

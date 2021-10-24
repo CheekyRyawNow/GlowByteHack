@@ -1,0 +1,563 @@
+,id,is_closed,bdate,sex,last_seen,can_write_private_message,first_name,last_name,country,city,home_town,connections,contacts,timezone,relation,games
+0,27005,False,none,2,"{'platform': 2, 'time': 1635084030}",0,Алекс,Поливода,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+1,27006,False,none,2,"{'platform': 1, 'time': 1635082891}",1,Станислав,Скворцов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+2,27009,False,none,2,"{'platform': 1, 'time': 1624783935}",0,Инна,Меншутина,none,none,none,none,none,none,none,none
+3,27010,False,28.11,2,"{'platform': 4, 'time': 1635053782}",1,Дмитрий,Бойченко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,"Starcraft, Prince of Persia, Assasin's creed"
+4,27011,False,none,2,"{'platform': 7, 'time': 1629574942}",1,Георгий,Пономарев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,1,
+5,27012,False,22.7.1987,2,"{'platform': 1, 'time': 1634192159}",1,Дмитрий,Гусев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",У меня их два Питер и Сочи,none,none,none,4,Кикер!!! и  Тигр идет и твистер(соответствено с победителями первой игры)
+6,27014,False,20.3,1,"{'platform': 2, 'time': 1634915508}",1,Мария,Кипкеева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}","Талнах, Норильск, Санкт-Петербург",none,none,none,4,
+7,27016,False,none,2,"{'platform': 7, 'time': 1635084164}",1,Андрей,Кочетков,"{'id': 1, 'title': 'Россия'}","{'id': 353, 'title': 'Боровичи'}",,none,none,none,0,
+8,27019,False,10.7,1,"{'platform': 7, 'time': 1634764750}",1,Анастасия,Фёдорова,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+9,27020,False,9.6,1,"{'platform': 2, 'time': 1635082800}",1,Alexandra,Shuman,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+10,27021,False,22.2,2,"{'platform': 1, 'time': 1635083314}",1,Дмитрий,Anturage,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+11,27022,False,6.6,1,"{'platform': 4, 'time': 1634902494}",1,Анастасия,Косовская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+12,27023,False,28.1,1,"{'platform': 1, 'time': 1635076024}",0,Elena,Kazakova,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+13,27024,False,28.5,1,"{'platform': 4, 'time': 1635057138}",0,Екатерина,Лаврушина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+14,27025,False,15.3.1989,1,"{'platform': 4, 'time': 1634923053}",1,Екатерина,Иванова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+15,27026,False,28.9.1988,2,"{'platform': 2, 'time': 1635007845}",1,Степан,Шмытинский,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,"Worms, ковбои, герои, Стар Ворс Кинект и странные файтинги и аркады, чтоб их!"
+16,27028,False,19.7.1988,2,"{'platform': 2, 'time': 1635009259}",1,Дима,Медведев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+17,27029,False,none,1,"{'platform': 7, 'time': 1635084263}",1,Мария,Фадина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+18,27030,False,25.10.1985,1,"{'platform': 4, 'time': 1633443531}",1,Полина,Шерер,"{'id': 65, 'title': 'Германия'}","{'id': 4183, 'title': 'Stuttgart'}",none,none,none,none,none,none
+19,27031,False,none,2,"{'platform': 4, 'time': 1605880565}",1,Александр,Лексаченко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+20,27038,False,17.8.1987,1,"{'platform': 4, 'time': 1635084066}",0,Маргарита,Радченко,"{'id': 1, 'title': 'Россия'}","{'id': 35, 'title': 'Великий Новгород'}",none,none,none,none,none,none
+21,27039,False,25.11.1989,1,"{'platform': 4, 'time': 1635032739}",1,Анна,Поддубская,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+22,27040,False,26.7.1988,2,"{'platform': 4, 'time': 1635057900}",1,Михаил,Меньшиков,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+23,27041,False,29.10.1988,1,"{'platform': 7, 'time': 1634893497}",1,Евгения,Фаизова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+24,27042,False,15.2,1,"{'platform': 2, 'time': 1633581809}",1,Ольга,Глушкова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+25,27043,False,12.3.1988,2,"{'platform': 1, 'time': 1629518616}",0,Алексей,Лукашов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+26,27045,False,none,2,"{'platform': 4, 'time': 1634752472}",1,Артём,Селезнёв,"{'id': 1, 'title': 'Россия'}","{'id': 125, 'title': 'Саратов'}",none,none,none,none,none,none
+27,27046,False,none,2,"{'platform': 7, 'time': 1633334273}",1,Алексей,Агапонов,none,none,none,none,none,none,none,none
+28,27049,False,28.8.1986,2,"{'platform': 7, 'time': 1634888616}",1,Алексей,Грибов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+29,27050,False,none,2,"{'platform': 4, 'time': 1634545233}",0,Андрей,Мамонов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+30,27052,False,2.2,2,"{'platform': 7, 'time': 1634135332}",0,Филипп,Рыбалов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+31,27053,False,none,2,"{'platform': 4, 'time': 1635081408}",0,Ринат,Абдуллин,none,none,none,none,none,none,none,none
+32,27054,False,11.10.1987,2,"{'platform': 4, 'time': 1635084588}",1,Павел,Колесников,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+33,27055,False,none,2,"{'platform': 4, 'time': 1635065010}",0,Петр,Шарапов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+34,27056,False,5.11.1988,1,"{'platform': 2, 'time': 1551255319}",1,Анастасия,Федосеева,"{'id': 88, 'title': 'Италия'}","{'id': 4550192, 'title': 'Brugherio'}",none,none,none,none,none,none
+35,27059,False,17.1.1989,1,"{'platform': 4, 'time': 1635075998}",1,Наталья,Солнцева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+36,27060,False,22.7.1987,1,"{'platform': 4, 'time': 1634912114}",0,Маринка,Улитина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+37,27061,False,16.1.1989,2,"{'platform': 4, 'time': 1635065340}",1,Саня,Чекулаев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+38,27062,False,25.12.1965,2,"{'platform': 4, 'time': 1635077475}",0,Владимир,Гусев,"{'id': 1, 'title': 'Россия'}","{'id': 49, 'title': 'Екатеринбург'}",none,none,none,none,none,none
+39,27063,False,30.1.1988,2,"{'platform': 7, 'time': 1634880148}",1,Саня,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+40,27064,False,10.6.1988,2,"{'platform': 2, 'time': 1635081636}",1,Никита,Харченко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+41,27066,False,30.10,2,"{'platform': 7, 'time': 1635077969}",1,Андрей,Тихомиров,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,7,
+42,27067,False,none,2,"{'platform': 7, 'time': 1634918184}",1,Антон,Евдокимов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+43,27068,False,none,2,"{'platform': 2, 'time': 1635084596}",1,Евгений,Черняховский,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+44,27069,False,none,2,"{'platform': 2, 'time': 1635050908}",1,Александр,Хохлов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+45,27070,False,none,2,"{'platform': 7, 'time': 1621740894}",0,Алексей,Мельников,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+46,27074,False,8.6,2,"{'platform': 7, 'time': 1635084327}",1,Максим,Каразеев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+47,27076,False,none,2,"{'platform': 2, 'time': 1634668924}",1,Леонид,Яковлев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+48,27080,False,none,2,"{'platform': 7, 'time': 1573642305}",1,Павел,Чхаидзе,none,none,none,none,none,none,none,none
+49,27082,False,12.12,1,"{'platform': 4, 'time': 1635084408}",1,Анна,Лапсарь,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+50,27086,False,none,1,"{'platform': 7, 'time': 1466624703}",0,Илья,Пузыня,"{'id': 1, 'title': 'Россия'}","{'id': 49, 'title': 'Екатеринбург'}",,none,none,none,0,
+51,27088,False,18.5,1,"{'platform': 4, 'time': 1635073111}",1,Юлия,Григорьева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+52,27089,False,none,2,"{'platform': 2, 'time': 1635080624}",0,Роман,Лесняк,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+53,27090,False,5.5.1987,1,"{'platform': 4, 'time': 1634378924}",1,Даша,Устюжанина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+54,27091,False,3.10.1989,1,"{'platform': 7, 'time': 1631730623}",0,Надежда,Кравчук,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+55,27093,False,24.10.1985,2,"{'platform': 4, 'time': 1635071505}",1,Эдуард,Дедюхин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+56,27095,False,5.10.1988,1,"{'platform': 7, 'time': 1634542672}",0,Ирина,Безпрозванных,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+57,27098,False,15.4.1988,2,"{'platform': 4, 'time': 1635077623}",1,Паша,Чернышёв,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+58,27100,False,10.11,1,"{'platform': 4, 'time': 1635033069}",1,Яна,Северина,"{'id': 1, 'title': 'Россия'}",none,St.Petersburg,none,none,none,4,
+59,27101,False,6.1,1,"{'platform': 2, 'time': 1635018406}",1,Валерия,Чурсинова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+60,27103,False,10.3,1,"{'platform': 2, 'time': 1634921847}",0,Екатерина,Герасимова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+61,27104,False,none,2,"{'platform': 1, 'time': 1634908393}",0,Андрей,Дикий,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+62,27108,False,none,1,"{'platform': 2, 'time': 1633880059}",1,Саша,Каплун,none,none,none,none,none,none,none,none
+63,27109,False,1.11.1988,1,"{'platform': 1, 'time': 1635083959}",1,Марина,Рысь,none,none,Северная Пальмира,none,none,none,0,
+64,27110,False,18.9.1986,2,"{'platform': 2, 'time': 1635076454}",1,Виктор,Дубровский,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+65,27111,False,20.7,1,"{'platform': 1, 'time': 1634478369}",1,Дарья,Андреева,none,none,none,none,none,none,none,none
+66,27112,False,20.6.1987,1,"{'platform': 7, 'time': 1634725554}",1,Диана,Рахматуллина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,7,
+67,27113,False,26.6,1,"{'platform': 2, 'time': 1417289244}",1,Наталия,Белая,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+68,27118,False,12.2,1,"{'platform': 2, 'time': 1634016978}",1,Make,War,none,none,none,none,none,none,none,none
+69,27121,False,14.8.1984,2,"{'platform': 4, 'time': 1635025854}",0,Саша,Уланов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+70,27124,False,none,1,"{'platform': 1, 'time': 1632065263}",0,Ольга,Конышева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+71,27125,False,28.6,2,"{'platform': 2, 'time': 1629554345}",1,Сергей,Малеев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+72,27126,False,none,1,"{'platform': 2, 'time': 1634155392}",0,Елена,Андрейченко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+73,27128,False,24.2.1988,2,"{'platform': 2, 'time': 1635084177}",0,Ринат,Каримов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+74,27130,False,25.10.1987,1,"{'platform': 4, 'time': 1635082537}",1,Ксения,Эмшестнадцать,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,0,"цифровые: MaxPayne, WoW, GothicIII, Q3 (Q3DM17); аналоговые: DnD, колдунчики (чай-чай), вампирчики, ""собака"""
+75,27131,False,2.7.1986,2,"{'platform': 4, 'time': 1635084609}",1,Кристина,Ранну,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Сергиев Посад,none,none,none,0,"WarCraft III, Civilisation, Wolfenstein, Portal, Quake III и Герои Мат-Меха :->"
+76,27132,False,20.10.1987,1,"{'platform': 2, 'time': 1635059322}",0,Julia,Mahnyova,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+77,27133,False,7.8,2,"{'platform': 2, 'time': 1635082221}",1,Алексей,Измайлов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+78,27136,False,13.11.1920,1,"{'platform': 1, 'time': 1634818413}",1,Da,Шутка,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+79,27138,False,none,1,"{'platform': 4, 'time': 1635058771}",1,Валентина,Заливина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+80,27139,False,17.2,1,"{'platform': 2, 'time': 1635079204}",1,Анисия,Афанасьева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+81,27142,False,11.1,2,"{'platform': 2, 'time': 1635081443}",1,Фёдор,Коновалов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+82,27144,False,16.1,2,"{'platform': 7, 'time': 1635009673}",1,Алексей,Петров,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+83,27145,False,12.3.1986,2,"{'platform': 4, 'time': 1634938287}",1,Дмитрий,Виноградов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+84,27146,False,3.7,1,"{'platform': 4, 'time': 1634917720}",1,Лёлечка,Стародуб,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+85,27147,False,13.6.1986,2,"{'platform': 2, 'time': 1635069948}",0,Алексей,Гуляев,"{'id': 1, 'title': 'Россия'}","{'id': 1429, 'title': 'Осташков'}",none,none,none,none,none,none
+86,27148,False,none,1,"{'platform': 4, 'time': 1634577036}",1,Elmira,Ananikian,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+87,27151,False,none,2,"{'platform': 1, 'time': 1635081980}",1,Александр,Малишевский,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,С реальностью
+88,27152,False,3.6.1989,1,"{'platform': 2, 'time': 1635003971}",1,Ирина,Конопляник,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+89,27154,False,none,1,"{'platform': 2, 'time': 1635013648}",1,Мария,Архангельская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",СПб,none,none,none,4,
+90,27155,False,21.3,2,"{'platform': 2, 'time': 1634890815}",1,Антон,Мартынов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+91,27158,False,4.9,1,"{'platform': 4, 'time': 1635084002}",0,Аня,Шаверина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+92,27161,False,12.9.1989,2,"{'platform': 2, 'time': 1634838654}",1,Zurab,Bekov,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,
+93,27162,False,none,2,"{'platform': 2, 'time': 1633982746}",1,Саид,Умаров,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+94,27163,False,9.2,1,"{'platform': 4, 'time': 1634994614}",0,Татьяна,Плахова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+95,27164,False,28.7,2,"{'platform': 4, 'time': 1635076944}",1,Дмитрий,Димченко,none,none,none,none,none,none,none,none
+96,27169,False,18.8,1,"{'platform': 2, 'time': 1635077947}",1,Виталина,Кузьмина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+97,27170,False,8.1.1988,2,"{'platform': 7, 'time': 1634919317}",1,Роман,Осипов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург/Сыктывкар,none,none,none,0,"chess, holdem"
+98,27171,False,none,1,"{'platform': 1, 'time': 1607221282}",1,Ольга,Бронзова,"{'id': 9, 'title': 'США'}","{'id': 1711047, 'title': 'Seattle'}",none,none,none,none,none,none
+99,27172,False,31.12.1971,2,"{'platform': 4, 'time': 1635065035}",1,Дмитрий,Прокопенко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+100,27173,False,29.1.1987,1,"{'platform': 4, 'time': 1635064503}",1,Анастасия,Пилипенко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,кандидатская диссертация
+101,27175,False,22.10.1989,1,"{'platform': 2, 'time': 1634893128}",1,Arina,Ovchinnikova,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+102,27179,False,18.11,1,"{'platform': 1, 'time': 1439121454}",1,Мариша,Климешова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+103,27180,False,26.12,1,"{'platform': 2, 'time': 1635013288}",1,Аля,Гежа,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+104,27182,False,none,2,"{'platform': 2, 'time': 1635083962}",1,Дмитрий,Харлампиев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+105,27184,False,19.8.1986,2,"{'platform': 2, 'time': 1635081478}",1,Павел,Школьников,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",С-Пб,none,none,none,1,
+106,27186,False,12.5.1988,1,"{'platform': 2, 'time': 1635060951}",0,Евгения,Швецова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+107,27187,False,none,2,"{'platform': 2, 'time': 1634566959}",1,Aleksey,Kazakov,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+108,27195,False,8.8.2006,1,"{'platform': 4, 'time': 1635006882}",1,Елена,Лебедев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+109,27197,False,none,2,"{'platform': 4, 'time': 1634718580}",1,Артур,Шайгарданов,"{'id': 49, 'title': 'Великобритания'}","{'id': 295, 'title': 'London'}",,none,none,none,0,
+110,27198,False,13.4.1988,1,"{'platform': 7, 'time': 1635020980}",1,Настя,Кулешова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}","Питер, Сертолово",none,none,none,0,
+111,27199,False,7.3.1989,1,"{'platform': 2, 'time': 1634996993}",0,Маргарита,Корсакова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+112,27201,False,4.4.1987,1,"{'platform': 4, 'time': 1635020443}",1,Ziliya,Levitskaya,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+113,27202,False,9.8,2,"{'platform': 7, 'time': 1635075601}",1,Юрий,Иванов,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+114,27203,False,none,1,"{'platform': 4, 'time': 1634963968}",1,Татьяна,Сукайло,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+115,27204,False,1.3,2,"{'platform': 2, 'time': 1635059022}",0,Антон,Кривошеев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+116,27205,False,none,2,"{'platform': 2, 'time': 1634987343}",0,Паша,Кучерявцев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+117,27209,False,10.10,2,"{'platform': 7, 'time': 1634889424}",0,Дмитрий,Смирнов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+118,27211,False,20.2.1983,2,"{'platform': 7, 'time': 1634846230}",1,Александр,Плаксин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+119,27212,False,30.12.1983,2,"{'platform': 4, 'time': 1634975493}",1,Михаил,Агниашвили,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Тбилиси,none,none,none,0,"шахматы, многие виды игр жанра RPG"
+120,27214,False,2.10,2,"{'platform': 2, 'time': 1635024572}",0,Антон,Шашкин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+121,27215,False,14.9,1,"{'platform': 7, 'time': 1626778203}",1,Ксения,Механик,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+122,27217,False,18.7.1988,2,"{'platform': 4, 'time': 1635084594}",0,Андрей,Олегович,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+123,27218,False,none,2,"{'platform': 7, 'time': 1635037199}",1,Алексей,Сигай,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Североморск,none,none,none,1,На раздевание
+124,27220,False,26.1,1,"{'platform': 2, 'time': 1635082622}",1,Ирина,Дубинич,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+125,27221,False,none,2,"{'platform': 2, 'time': 1615930787}",1,Никета,Чижков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+126,27222,False,none,2,"{'platform': 2, 'time': 1635005676}",0,Дмитрий,Руденко,none,none,none,none,none,none,none,none
+127,27224,False,22.11,1,"{'platform': 4, 'time': 1635079939}",1,Ксения,Громова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+128,27225,False,none,2,"{'platform': 7, 'time': 1634828211}",1,Дмитрий,Заика,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+129,27227,False,none,2,"{'platform': 7, 'time': 1188401448}",1,Евгений,Матвеев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+130,27230,False,25.11,2,"{'platform': 7, 'time': 1634912211}",1,Александр,Сысоев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+131,27236,False,6.4.1986,1,"{'platform': 2, 'time': 1635077800}",1,Аня,Солдатова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+132,27239,False,28.9.1987,1,"{'platform': 4, 'time': 1629522562}",1,Ольга,Захарова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+133,27240,False,none,2,"{'platform': 7, 'time': 1374617231}",1,Дмитрий,Эбель,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+134,27243,False,none,1,"{'platform': 7, 'time': 1426934819}",0,Александра,Долгих,"{'id': 88, 'title': 'Италия'}","{'id': 1916066, 'title': 'Bologna'}",none,none,none,none,none,none
+135,27244,False,22.5,1,"{'platform': 1, 'time': 1635082830}",1,Катюшка,Орищенко,none,none,Великий Новгород,none,none,none,0,
+136,27247,False,27.11,2,"{'platform': 2, 'time': 1635083223}",1,Юра,Шамардин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+137,27249,False,23.9.1983,2,"{'platform': 1, 'time': 1635075000}",1,Андрей,Николаев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,"Кануполо, блин"
+138,27251,False,8.5,2,"{'platform': 1, 'time': 1634985109}",0,Игорь,Игонов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+139,27252,False,22.7,2,"{'platform': 2, 'time': 1635014893}",1,Семён,Черноножкин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+140,27254,False,2.8.1988,2,"{'platform': 1, 'time': 1634496568}",1,Валентин,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+141,27256,False,5.5.1985,2,"{'platform': 4, 'time': 1634916970}",1,Дмитрий,Хисаметдинов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+142,27257,False,5.11.1985,1,"{'platform': 2, 'time': 1630830902}",1,Ирина,Папилина,"{'id': 88, 'title': 'Италия'}","{'id': 4190260, 'title': 'Taormina'}",Знаменск,none,none,none,4,
+143,27258,False,16.7.1988,2,"{'platform': 7, 'time': 1565950993}",0,Михаил,Орлов,none,none,none,none,none,none,none,none
+144,27259,False,5.6,1,"{'platform': 7, 'time': 1635010400}",1,Надежда,Казаринова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+145,27264,False,23.11.1987,2,"{'platform': 7, 'time': 1635084569}",1,Александр,Белов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,"Pro Evolution Soccer, FIFA, Test Drive Unlimited, GTA, Gothic, Ведьмак"
+146,27266,False,7.2,2,"{'platform': 7, 'time': 1300420057}",1,Алексей,Tapakanovskyu,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+147,27269,False,21.2.1988,1,"{'platform': 2, 'time': 1634843773}",0,Сабина,Могушкова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+148,27270,False,none,2,"{'platform': 2, 'time': 1635002690}",1,Дмитрий,Борисов,none,none,none,none,none,none,none,none
+149,27271,False,7.7,2,"{'platform': 7, 'time': 1634937214}",1,Иван,Мостовиков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+150,27272,False,none,2,"{'platform': 7, 'time': 1595268133}",1,Станислав,Ст,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+151,27273,False,none,2,"{'platform': 4, 'time': 1635068368}",1,Евгений,Малов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+152,27274,False,8.3.1989,1,"{'platform': 1, 'time': 1632652787}",1,Юлия,Бучатская,"{'id': 36, 'title': 'Бельгия'}","{'id': 1519303, 'title': 'Mol'}",none,none,none,none,none,none
+153,27276,False,23.4,2,"{'platform': 4, 'time': 1634992052}",1,Дмитрий,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,----------------------------------------------------------------------------------------------------------------------------------
+154,27277,False,6.6.1984,1,"{'platform': 7, 'time': 1264692941}",1,Хх,Хх,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+155,27278,False,5.7.1988,2,"{'platform': 4, 'time': 1634988693}",0,Митяй,Козлов,"{'id': 1, 'title': 'Россия'}","{'id': 103, 'title': 'Обнинск'}",none,none,none,none,none,none
+156,27279,False,24.3.1988,2,"{'platform': 4, 'time': 1633344893}",1,Добрая,Вишенка,none,none,Питер),none,none,none,0,
+157,27280,False,27.11.1989,1,"{'platform': 2, 'time': 1635075638}",0,Maria,Yushchenko,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+158,27281,False,2.1,1,"{'platform': 1, 'time': 1627571475}",1,Ирина,Головач,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+159,27283,False,none,1,"{'platform': 2, 'time': 1635080291}",1,Екатерина,Урсулова,"{'id': 1, 'title': 'Россия'}","{'id': 1463, 'title': 'Зеленоград'}",,none,none,none,4,
+160,27284,False,23.5.1989,1,"{'platform': 1, 'time': 1634676645}",0,Екатерина,Дубина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+161,27285,False,24.4.1986,1,"{'platform': 4, 'time': 1635009748}",1,Екатерина,Артикулова,"{'id': 1, 'title': 'Россия'}","{'id': 8162, 'title': 'Лобня'}",none,none,none,none,none,none
+162,27286,False,16.5,1,"{'platform': 2, 'time': 1635008406}",1,Анастасия,Шептаева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+163,27287,False,none,2,"{'platform': 2, 'time': 1635080659}",1,Павел,Симонов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+164,27290,False,28.11,2,"{'platform': 2, 'time': 1635081995}",1,Николай,Дмитриев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,1,
+165,27291,False,11.6.1989,1,"{'platform': 2, 'time': 1634145717}",1,Анжела,Григорян,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+166,27293,False,5.5.1988,1,"{'platform': 4, 'time': 1633697643}",1,Любаша,Шумская,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+167,27296,False,18.1.1988,1,"{'platform': 4, 'time': 1634904147}",0,Zarema,Dorofeeva,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+168,27297,False,1.1.1932,1,"{'platform': 1, 'time': 1626526496}",1,Саша,Ли,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,4,покер
+169,27298,False,none,2,"{'platform': 1, 'time': 1635018390}",1,Сергей,Макаров,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+170,27301,False,11.2,2,"{'platform': 1, 'time': 1635020492}",1,Андрей,Бородин,none,none,none,none,none,none,none,none
+171,27302,False,8.4.1986,2,"{'platform': 2, 'time': 1632396674}",1,Николай,Камешков,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+172,27303,False,none,1,"{'platform': 1, 'time': 1634995703}",1,Катя,Романович,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+173,27304,False,27.5,1,"{'platform': 4, 'time': 1635075717}",0,Екатерина,Смолёнова,none,none,none,none,none,none,none,none
+174,27305,False,13.10.1983,2,"{'platform': 4, 'time': 1635081554}",1,Данила,Александрович,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+175,27308,False,29.6.1989,2,"{'platform': 1, 'time': 1620093397}",0,Снусмумрик,Редкий,none,none,none,none,none,none,none,none
+176,27310,False,5.2,2,"{'platform': 4, 'time': 1635079147}",1,Евгений,Лазаренков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+177,27311,False,none,2,"{'platform': 2, 'time': 1635077437}",1,Саша,Сухачев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+178,27314,False,30.8.1987,2,"{'platform': 4, 'time': 1635077125}",1,Антон,Дмитриев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+179,27318,False,22.1,2,"{'platform': 4, 'time': 1631468967}",1,Олег,Рогов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+180,27319,False,29.12.1986,2,"{'platform': 2, 'time': 1635049672}",1,Михаил,Клюквин,"{'id': 1, 'title': 'Россия'}","{'id': 1033, 'title': 'Истра'}",none,none,none,none,none,none
+181,27320,False,12.5.1989,2,"{'platform': 7, 'time': 1635017202}",0,Александр,Николаевич,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+182,27321,False,25.5.1988,1,"{'platform': 4, 'time': 1635076203}",1,Yulia,Vakhmenina,"{'id': 215, 'title': 'Чехия'}","{'id': 1933924, 'title': 'Praha'}",Спб,none,none,none,0,
+183,27323,False,6.10,1,"{'platform': 2, 'time': 1635071685}",1,Юлия,Степанова,"{'id': 1, 'title': 'Россия'}","{'id': 35, 'title': 'Великий Новгород'}",,none,none,none,4,
+184,27324,False,none,2,"{'platform': 4, 'time': 1635082065}",1,Пётр,Гузов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+185,27327,False,10.10.1987,2,"{'platform': 2, 'time': 1635084539}",1,Георгий,Корелин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+186,27328,False,none,2,"{'platform': 4, 'time': 1635060720}",1,Михаил,Чуриков,"{'id': 1, 'title': 'Россия'}",none,,none,none,none,0,
+187,27329,False,none,2,"{'platform': 1, 'time': 1351083897}",0,Тоха,Никитченко,none,none,none,none,none,none,none,none
+188,27330,False,4.4.1987,2,"{'platform': 1, 'time': 1635084554}",1,Михаил,Ковалев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,3,"Любые кроме игр в любовь и в дружбу вместо любви, убиваю взглядом василисков"
+189,27331,False,28.6.1987,1,"{'platform': 4, 'time': 1635084583}",0,Мария,Александрова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+190,27332,False,none,2,"{'platform': 2, 'time': 1635082579}",1,Артем,Торопыгин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Архангельск,none,none,none,2,
+191,27333,False,23.7,1,"{'platform': 2, 'time': 1635058385}",1,Лена,Куксенко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+192,27335,False,30.5,1,"{'platform': 1, 'time': 1635082111}",0,Татьяна,Безлюдная,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+193,27336,False,20.8,1,"{'platform': 7, 'time': 1635058275}",0,Юлия,Пименова,"{'id': 1, 'title': 'Россия'}","{'id': 1033, 'title': 'Истра'}",Истра,none,none,none,4,ролевые
+194,27339,False,21.2.1987,1,"{'platform': 7, 'time': 1311198334}",0,Катя,Петухова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+195,27341,False,17.6,1,"{'platform': 4, 'time': 1635081860}",1,Татьяна,Барабкина,"{'id': 1, 'title': 'Россия'}","{'id': 152, 'title': 'Ухта'}",none,none,none,none,none,none
+196,27344,False,none,2,"{'platform': 7, 'time': 1635078728}",1,Рома,Ларичев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+197,27345,False,none,2,"{'platform': 4, 'time': 1634925239}",1,Виктор,Федоров,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+198,27348,False,none,1,"{'platform': 1, 'time': 1632594733}",1,Nastya,Nastya,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+199,27349,False,22.3,1,"{'platform': 7, 'time': 1228737000}",1,Маргарита,Кушелева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+200,27352,False,7.9.1988,2,"{'platform': 2, 'time': 1635073960}",1,Борис,Артемьев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+201,27353,False,23.6.1987,2,"{'platform': 4, 'time': 1635014107}",1,Ivan,Simonyuk,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+202,27354,False,26.9.1987,2,"{'platform': 4, 'time': 1635079545}",1,Даниил,Гительсон,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+203,27355,False,10.12.1987,1,"{'platform': 2, 'time': 1595857014}",0,Екатерина,Баранова,"{'id': 65, 'title': 'Германия'}","{'id': 5261785, 'title': 'Münster'}",none,none,none,none,none,none
+204,27358,False,17.11,1,"{'platform': 2, 'time': 1634924359}",1,Александра,Мороз,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+205,27359,False,13.1.1990,2,"{'platform': 1, 'time': 1635079196}",1,Иван,Савченко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+206,27360,False,14.9.1989,1,"{'platform': 2, 'time': 1634794491}",1,Светлана,Шведова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+207,27361,False,none,2,"{'platform': 7, 'time': 1634922037}",1,Олег,Данцаранов,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+208,27367,False,none,1,"{'platform': 2, 'time': 1635073040}",1,Женя,Верховская,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+209,27369,False,8.7,1,"{'platform': 1, 'time': 1635084433}",1,Александра,Вениаминова,"{'id': 211, 'title': 'Французская Полинезия'}","{'id': 4905067, 'title': 'Papeete'}",Санкт-Петербург,none,none,none,0,
+210,27371,False,none,2,"{'platform': 1, 'time': 1635081773}",1,Юрий,Герасимов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+211,27378,False,none,2,"{'platform': 7, 'time': 1634755713}",1,Сергей,Паршуков,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+212,27379,False,none,2,"{'platform': 1, 'time': 1634924883}",1,Алексей,Проценко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,4,
+213,27380,False,17.2,1,"{'platform': 7, 'time': 1634270257}",1,Анна,Красникова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+214,27381,False,none,1,"{'platform': 7, 'time': 1303385988}",1,Ksa,Nka,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+215,27382,False,5.5,1,"{'platform': 1, 'time': 1633721099}",0,Катька,Платонова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+216,27383,False,23.12.1984,1,"{'platform': 4, 'time': 1635083281}",0,Оксана,Libert,none,none,none,none,none,none,none,none
+217,27384,False,25.1.1989,1,"{'platform': 2, 'time': 1634999993}",1,Надежда,Хохлова,"{'id': 1, 'title': 'Россия'}","{'id': 119, 'title': 'Ростов-на-Дону'}",Астрахань,none,none,none,0,
+218,27385,False,none,2,"{'platform': 1, 'time': 1635084315}",1,Сергей,Билетов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,1,
+219,27386,False,none,2,"{'platform': 7, 'time': 1635065230}",1,Максим,Максим,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+220,27388,False,none,2,"{'platform': 4, 'time': 1635079600}",1,Александр,Козловский,none,none,none,none,none,none,none,none
+221,27390,False,none,1,"{'platform': 1, 'time': 1634915151}",0,Anna,Skripchenko,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+222,27391,False,3.8.1985,1,"{'platform': 2, 'time': 1633344366}",1,Ольга,Кузьмина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+223,27392,False,none,1,"{'platform': 4, 'time': 1634586584}",1,Оксана,Ановская,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+224,27393,False,4.6.2004,1,"{'platform': 2, 'time': 1633917781}",1,Катенька,Горшкова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+225,27395,False,10.4.1988,1,"{'platform': 2, 'time': 1635084566}",1,Люська,Виноградова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,Ролевые
+226,27399,False,26.2,1,"{'platform': 1, 'time': 1634580460}",1,Вероника,Богомолова,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+227,27400,False,2.12.1986,2,"{'platform': 7, 'time': 1634205244}",1,Александр,Оборотов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+228,27403,False,23.1.1986,1,"{'platform': 4, 'time': 1635054815}",1,Ната,Глодя,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+229,27404,False,15.1,1,"{'platform': 2, 'time': 1635084396}",1,Надежда,Синева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+230,27406,False,13.7.1987,2,"{'platform': 4, 'time': 1635079481}",0,Артур,Ткаченко,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",none,none,none,none,none,none
+231,27407,False,9.11,1,"{'platform': 4, 'time': 1634904935}",1,Анна,Козловская,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,В Любовь и Бизнес
+232,27410,False,24.5.1989,1,"{'platform': 7, 'time': 1192552945}",1,Галя,Каране,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",МОСКВА,none,none,none,1,НЕТ
+233,27412,False,none,2,"{'platform': 4, 'time': 1635078676}",1,Артём,Суслин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Барнаул/Сургут,none,none,none,0,"FM2009, F.E.A.R"
+234,27413,False,7.1.1986,2,"{'platform': 4, 'time': 1635049885}",1,Альберт,Бугаев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+235,27415,False,24.9,1,"{'platform': 1, 'time': 1635081514}",0,Анна,Канаева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+236,27416,False,3.10,1,"{'platform': 4, 'time': 1635079928}",1,Елена,Воронова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,1,"Когда-то была ""Disciples"" и Контра"
+237,27418,False,3.9,2,"{'platform': 1, 'time': 1632942783}",1,Andrey,Inaekyan,none,none,none,none,none,none,none,none
+238,27419,False,28.4.1988,2,"{'platform': 4, 'time': 1635075634}",1,Стас,Капулкин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+239,27420,False,none,2,"{'platform': 4, 'time': 1635065575}",1,Александр,Кудрявцев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+240,27421,False,none,1,"{'platform': 2, 'time': 1634991969}",1,Валерия,Marshall,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+241,27422,False,11.12.1986,2,"{'platform': 2, 'time': 1635058836}",1,Денис,Харитоненко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Пушкин,none,none,none,0,
+242,27423,False,none,2,"{'platform': 1, 'time': 1631416516}",1,Александр,Чижов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Полярные Зори,none,none,none,0,Никаких
+243,27424,False,none,2,"{'platform': 2, 'time': 1635073254}",0,Леонид,Ким,"{'id': 226, 'title': 'Южная Корея'}","{'id': 1712003, 'title': 'Seoul'}",none,none,none,none,none,none
+244,27425,False,19.10.1989,1,"{'platform': 4, 'time': 1634948942}",1,Марья,Никитична,none,none,none,none,none,none,none,none
+245,27426,False,27.7,1,"{'platform': 2, 'time': 1634997294}",1,Мария,Быковская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+246,27427,False,24.5,1,"{'platform': 2, 'time': 1632683425}",0,Vera,Styles,none,none,none,none,none,none,none,none
+247,27428,False,5.12.1986,1,"{'platform': 2, 'time': 1634411947}",1,Екатерина,Муравлева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+248,27429,False,14.3.1986,2,"{'platform': 2, 'time': 1635084584}",1,Александер,Баранов,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+249,27432,False,24.5,2,"{'platform': 7, 'time': 1635027423}",1,Максим,Лежнев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,0,
+250,27433,False,none,2,"{'platform': 7, 'time': 1262075242}",0,Игорь,Завалей,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+251,27436,False,26.2.1989,2,"{'platform': 2, 'time': 1634816740}",1,Игорь,Мамонтов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+252,27437,False,8.1.2007,2,"{'platform': 2, 'time': 1635070156}",1,Василий,Перов,"{'id': 104, 'title': 'Куба'}","{'id': 1917808, 'title': 'Habana'}",none,none,none,none,none,none
+253,27443,False,6.10.1985,1,"{'platform': 4, 'time': 1634191868}",1,Victoria,Shapoval,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+254,27444,False,none,2,"{'platform': 4, 'time': 1634490826}",1,Владимир,Евсей,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+255,27445,False,30.12,1,"{'platform': 2, 'time': 1634658206}",1,Any,Tkacheva,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+256,27449,False,7.8,2,"{'platform': 1, 'time': 1634973813}",1,Vitaliy,Alexandrovich,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Питер,none,none,none,0,
+257,27450,False,16.4,1,"{'platform': 2, 'time': 1628421146}",0,Ульяна,Батурова,"{'id': 158, 'title': 'Перу'}","{'id': 1902438, 'title': 'Lima'}",none,none,none,none,none,none
+258,27451,False,none,2,"{'platform': 7, 'time': 1542693145}",1,Марат,Насибуллин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+259,27452,False,25.2.1987,2,"{'platform': 1, 'time': 1635076229}",1,Никита,Виноградов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+260,27454,False,none,2,"{'platform': 4, 'time': 1635074501}",0,Егор,Кисенко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+261,27455,False,8.5.1987,2,"{'platform': 4, 'time': 1635084389}",1,Николай,Васильевич,none,none,Санкт-Петербург,none,none,none,0,
+262,27458,False,17.4.1989,2,"{'platform': 1, 'time': 1635084154}",1,Антон,Макаренков,"{'id': 1, 'title': 'Россия'}","{'id': 87, 'title': 'Мурманск'}",none,none,none,none,none,none
+263,27459,False,1.3.1988,1,"{'platform': 4, 'time': 1635073028}",1,Катарина,Рыжикова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+264,27460,False,8.9.1988,2,"{'platform': 4, 'time': 1635084558}",0,Рустам,Нурыев,none,none,none,none,none,none,none,none
+265,27461,False,10.5,1,"{'platform': 4, 'time': 1634805295}",1,Танечка,Федосеева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+266,27462,False,18.12.1987,2,"{'platform': 2, 'time': 1635045787}",1,Игорь,Чурилов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+267,27463,False,24.7,1,"{'platform': 4, 'time': 1635081155}",1,Светлана,Александрович,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+268,27466,False,28.2,1,"{'platform': 2, 'time': 1635080708}",1,Masha,Kulikova,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+269,27468,False,15.4.1985,2,"{'platform': 2, 'time': 1634989314}",1,Альберт,Яралиев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+270,27470,False,29.11.1988,2,"{'platform': 7, 'time': 1635052397}",1,Александр,Пянкевич,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+271,27473,False,27.11,1,"{'platform': 2, 'time': 1632238503}",1,Ксенья,Бегишева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+272,27474,False,none,2,"{'platform': 1, 'time': 1634991676}",1,Дмитрий,Баранник,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+273,27475,False,none,1,"{'platform': 1, 'time': 1630048143}",1,Лена,Сухова,"{'id': 49, 'title': 'Великобритания'}","{'id': 295, 'title': 'London'}",Санкт-Петербург,none,none,none,4,
+274,27480,False,6.9.1989,1,"{'platform': 2, 'time': 1634765101}",1,Vikus,Ustinova,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+275,27485,False,none,2,"{'platform': 7, 'time': 1181571173}",1,Егор,Малыхин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+276,27486,False,24.12.1985,2,"{'platform': 2, 'time': 1634745551}",1,Михаил,Байков,"{'id': 1, 'title': 'Россия'}","{'id': 133, 'title': 'Сочи'}",Сочи,none,none,none,0,
+277,27490,False,25.5.1989,1,"{'platform': 1, 'time': 1506067336}",1,Анна,Khachpanyan,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+278,27491,False,5.7.1992,2,"{'platform': 7, 'time': 1249127908}",1,Besti,Alieva,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",москва,none,none,none,1,фывфыфыв
+279,27496,False,none,2,"{'platform': 7, 'time': 1635061242}",1,Арсений,Басиев,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+280,27499,False,none,1,"{'platform': 2, 'time': 1634977036}",1,Natalia,Salamova,none,none,none,none,none,none,none,none
+281,27500,False,none,1,"{'platform': 1, 'time': 1634633417}",1,Виктория,Астранина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+282,27501,False,none,1,"{'platform': 2, 'time': 1627138096}",0,Миранда(,Надареишвили,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+283,27502,False,5.3.1989,1,"{'platform': 2, 'time': 1634985228}",1,Алинка,Ложечникова,"{'id': 139, 'title': 'Нидерланды'}","{'id': 1056, 'title': 'Den Haag'}",none,none,none,none,none,none
+284,27504,False,6.11,1,"{'platform': 2, 'time': 1635077357}",1,Дарья,Подгорная,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",СПб,none,none,none,4,
+285,27506,False,28.6,1,"{'platform': 4, 'time': 1630223188}",1,Мила,Маснюк,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,шахматы :)
+286,27508,False,1.6,2,"{'platform': 7, 'time': 1635057186}",1,Денис,Борисов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+287,27509,False,6.1.1987,2,"{'platform': 2, 'time': 1635073361}",1,Михаил,Воеводский,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,
+288,27511,False,none,2,"{'platform': 4, 'time': 1635080244}",1,Alex,Gromoff,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+289,27513,False,26.1.1988,1,"{'platform': 4, 'time': 1634752336}",1,Ольга,Киселёва,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+290,27515,False,none,1,"{'platform': 2, 'time': 1635012032}",1,Екатерина,Бакеева,none,none,none,none,none,none,none,none
+291,27516,False,none,1,"{'platform': 1, 'time': 1634975811}",1,Анна,Белобратова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+292,27517,False,21.6.1988,2,"{'platform': 4, 'time': 1635013658}",0,Алексей,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+293,27519,False,31.5.1986,1,"{'platform': 4, 'time': 1635083601}",1,Ольга,Кошелева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+294,27520,False,none,1,"{'platform': 1, 'time': 1635082955}",1,Irene,Medved,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+295,27522,False,none,2,"{'platform': 2, 'time': 1635072670}",1,Василий,Уразгалиев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+296,27523,False,5.12.1988,1,"{'platform': 4, 'time': 1634748285}",1,Арина,Невдахина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Мещерино-1,none,none,none,4,
+297,27527,False,26.6.1985,2,"{'platform': 7, 'time': 1634814324}",1,Михаил,Перегудов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,4,Supaplex
+298,27528,False,none,1,"{'platform': 2, 'time': 1634420539}",1,Оксанка,Иванова,none,none,none,none,none,none,none,none
+299,27529,False,10.2.1990,2,"{'platform': 7, 'time': 1376847553}",1,Марина,Соколовская,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+300,27530,False,9.8,2,"{'platform': 7, 'time': 1388416506}",1,Sasha,Rodionov,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+301,27533,False,none,1,"{'platform': 7, 'time': 1489266153}",1,Юлия,Труфанова,"{'id': 13, 'title': 'Литва'}","{'id': 225, 'title': 'Klaipėda'}",none,none,none,none,none,none
+302,27534,False,6.9,1,"{'platform': 4, 'time': 1634814206}",1,Юлия,Муслимова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Бикин,none,none,none,4,
+303,27535,False,20.7,1,"{'platform': 2, 'time': 1635023763}",1,Катерина,Жогина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,4,
+304,27536,False,none,2,"{'platform': 4, 'time': 1635065399}",1,Павел,Кустов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,4,
+305,27537,False,15.1,1,"{'platform': 2, 'time': 1635066427}",1,Юлия,Мышка,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+306,27538,False,29.10,2,"{'platform': 7, 'time': 1634143477}",1,Александр,Рочев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+307,27539,False,31.12.1984,2,"{'platform': 2, 'time': 1634811130}",1,Виктор,Макарьин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,4,прятки )
+308,27540,False,20.6.1987,1,"{'platform': 1, 'time': 1630867814}",0,Светлана,Камешкова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+309,27541,False,none,2,"{'platform': 7, 'time': 1304311059}",1,Deleted,Deleted,none,none,Ленинград,none,none,none,4,
+310,27542,False,23.11.1988,2,"{'platform': 7, 'time': 1314604649}",1,Роман,Лейдерман,"{'id': 2, 'title': 'Украина'}","{'id': 292, 'title': 'Одесса'}",Тирасполь,none,none,none,5,
+311,27543,False,none,1,"{'platform': 7, 'time': 1366284472}",1,Лилия,Нилова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+312,27545,False,28.2.1988,2,"{'platform': 2, 'time': 1633619520}",1,Denis,Mokhov,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+313,27547,False,1.11.1987,1,"{'platform': 2, 'time': 1635020214}",1,Оксана,Белых,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+314,27552,False,none,1,"{'platform': 4, 'time': 1634920213}",0,Оксана,Левич,"{'id': 19, 'title': 'Австралия'}",none,none,none,none,none,none,none
+315,27553,False,30.7.1985,2,"{'platform': 7, 'time': 1533188725}",0,Роман,Карюзин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,1,
+316,27554,False,29.5.1989,1,"{'platform': 1, 'time': 1635012197}",1,Ольга,Каширская,"{'id': 1, 'title': 'Россия'}","{'id': 1297, 'title': 'Щелково'}",none,none,none,none,none,none
+317,27555,False,16.5.1985,2,"{'platform': 1, 'time': 1455724869}",1,Паша,Большаков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+318,27556,False,3.12.1987,1,"{'platform': 4, 'time': 1635081155}",1,Лидия,Нехорошкова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+319,27557,False,none,2,"{'platform': 1, 'time': 1635021345}",1,Александр,Куликов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+320,27558,False,9.2,1,"{'platform': 2, 'time': 1635033308}",1,Ольга,Окулич,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,"Твистер, Покер, Чехарда, Scrabble, Крокодил, Dixit"
+321,27559,False,18.7,1,"{'platform': 2, 'time': 1635080945}",1,Екатерина,Делакова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+322,27562,False,12.8.1986,2,"{'platform': 2, 'time': 1634973465}",1,Иван,Лопарев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+323,27564,False,26.3,1,"{'platform': 2, 'time': 1635082536}",1,Мария,Полищук,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+324,27565,False,24.11.1986,2,"{'platform': 7, 'time': 1314410333}",1,Александр,Герасименко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+325,27567,False,29.3.1987,2,"{'platform': 7, 'time': 1633379980}",1,Серёжа,Балашов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+326,27570,False,4.3.1988,1,"{'platform': 4, 'time': 1635084203}",0,Юлия,Драган,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+327,27574,False,22.2.1988,2,"{'platform': 4, 'time': 1634985305}",1,Alexander,Master,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+328,27576,False,7.9,2,"{'platform': 2, 'time': 1635082906}",1,Алексей,Евдокимов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Троицк,none,none,none,0,
+329,27578,False,16.11.1985,1,"{'platform': 4, 'time': 1635084553}",1,Аня,Слепова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Хабаровск,none,none,none,0,ночные
+330,27579,False,24.12,2,"{'platform': 1, 'time': 1594486729}",0,Tam,Nguyen,"{'id': 9, 'title': 'США'}","{'id': 208, 'title': 'San Francisco'}",none,none,none,none,none,none
+331,27581,False,24.8,1,"{'platform': 4, 'time': 1635081808}",1,Katya,Koshcheeva,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+332,27583,False,8.5,2,"{'platform': 4, 'time': 1635084236}",1,Артур,Еринджакянц,"{'id': 1, 'title': 'Россия'}","{'id': 1519, 'title': 'Гатчина'}",none,none,none,none,none,none
+333,27584,False,none,2,"{'platform': 2, 'time': 1634552010}",1,Олег,Ларионов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,2,
+334,27587,False,none,1,"{'platform': 2, 'time': 1634795067}",1,Анна,Колмыкова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Калининград,none,none,none,0,
+335,27588,False,3.2.1985,2,"{'platform': 1, 'time': 1635003921}",0,Александр,Лисняк,"{'id': 1, 'title': 'Россия'}","{'id': 185, 'title': 'Севастополь'}",none,none,none,none,none,none
+336,27589,False,9.9,2,"{'platform': 7, 'time': 1635011719}",1,Dmitriy,Konovalov,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+337,27591,False,10.12,1,"{'platform': 4, 'time': 1635082229}",0,Машка,Полтавская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+338,27592,False,none,2,"{'platform': 1, 'time': 1634148638}",1,Никита,Козлов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+339,27593,False,27.9,1,"{'platform': 1, 'time': 1423604685}",0,Кристина,Буринкова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+340,27595,False,none,1,"{'platform': 7, 'time': 1634229955}",1,Ира,Жирихова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+341,27597,False,13.5,2,"{'platform': 1, 'time': 1634740640}",1,Андрей,Неформальныйникпрям,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",СПБ,none,none,none,6,我才刚回蒙德嘛 От тетриса и до современных достижений человечества
+342,27601,False,13.3.1983,2,"{'platform': 7, 'time': 1635066655}",1,Антон,Беляков,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+343,27602,False,18.10.1987,2,"{'platform': 7, 'time': 1635074993}",1,Виталий,Иванов,"{'id': 1, 'title': 'Россия'}",none,Санкт-Петербург,none,none,none,0,
+344,27603,False,7.3.1988,2,"{'platform': 4, 'time': 1635072468}",0,Александр,Алексеев,"{'id': 1, 'title': 'Россия'}","{'id': 187, 'title': 'Мончегорск'}",none,none,none,none,none,none
+345,27604,False,5.2.1985,2,"{'platform': 4, 'time': 1634762498}",1,Роман,Станков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+346,27605,False,16.3,2,"{'platform': 7, 'time': 1633849617}",1,Eugene,Eremeev,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+347,27606,False,7.1.1987,2,"{'platform': 2, 'time': 1635084603}",0,Саша,Вайнштейн,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+348,27607,False,none,1,"{'platform': 1, 'time': 1635058378}",1,Алевтина,Галданова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+349,27613,False,none,2,"{'platform': 1, 'time': 1610017993}",1,Александр,Александров,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+350,27617,False,3.12.1987,1,"{'platform': 7, 'time': 1635049010}",0,Ольга,Лантюхова,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",none,none,none,none,none,none
+351,27618,False,none,2,"{'platform': 2, 'time': 1635078334}",1,Алекс,Голдберг,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,"Fable 2, Vampire: The Masquerade, The Elder Scrolls 4, Assassin's Creed, Prince of Persia, Dragon Age: Origins"
+352,27619,False,1.1.1964,2,"{'platform': 7, 'time': 1216561382}",1,Ethan,Hunt,"{'id': 9, 'title': 'США'}","{'id': 5331, 'title': 'Los Angeles'}",none,none,none,none,none,none
+353,27620,False,5.4.1987,2,"{'platform': 7, 'time': 1634604111}",1,Константин,Ребане,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}","Я рождённый в прошлом тысячелетии, в городе и стране, которых уже нет...",none,none,none,1,"Спортивные =) волейбол, футбол, бадминтон =)"
+354,27621,False,21.3,2,"{'platform': 7, 'time': 1635080152}",1,Михаил,Глушанков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+355,27622,False,none,1,"{'platform': 2, 'time': 1635074335}",1,Мария,Архипова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+356,27624,False,31.1,1,"{'platform': 2, 'time': 1634901991}",1,Елена,Орленко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Петербург,none,none,none,0,"кто кого, Футбол, ноу хау"
+357,27628,False,none,2,"{'platform': 7, 'time': 1608808373}",1,Алексей,Рябов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+358,27629,False,none,1,"{'platform': 7, 'time': 1168962754}",1,Марина,Колчина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,1,
+359,27632,False,25.6.1985,2,"{'platform': 1, 'time': 1635021064}",1,Виталий,Артемов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+360,27633,False,9.2.1988,2,"{'platform': 4, 'time': 1635083668}",1,Алексей,Волков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,1,
+361,27634,False,none,1,"{'platform': 2, 'time': 1635000141}",1,Ирина,Тузикова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+362,27635,False,24.5.1987,1,"{'platform': 4, 'time': 1635006587}",1,Anastacia,Vakhutova,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+363,27636,False,8.5,1,"{'platform': 1, 'time': 1356889715}",1,Полина,Седова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+364,27638,False,11.7.1986,1,"{'platform': 2, 'time': 1635068004}",0,Маша,Покровская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+365,27640,False,none,2,"{'platform': 4, 'time': 1635058042}",0,Максим,Виноградов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+366,27641,False,26.2,2,"{'platform': 2, 'time': 1634987211}",0,Михаил,Гродинский,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,2,
+367,27644,False,6.4.1987,2,"{'platform': 1, 'time': 1635057606}",1,Антон,Костерин,"{'id': 1, 'title': 'Россия'}","{'id': 1141697, 'title': 'Павлово'}",none,none,none,none,none,none
+368,27645,False,8.4.1985,1,"{'platform': 2, 'time': 1634996007}",0,Олеся,Матюшевич,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+369,27651,False,23.9,2,"{'platform': 1, 'time': 1635014508}",1,Артем,Москаленко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+370,27652,False,none,2,"{'platform': 4, 'time': 1634900631}",1,Сергей,Кочетов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+371,27654,False,13.7.1989,1,"{'platform': 4, 'time': 1635045718}",1,Виктория,Руцкая,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+372,27655,False,9.2.1989,1,"{'platform': 2, 'time': 1635075354}",1,Вера,Самойленко,"{'id': 1, 'title': 'Россия'}","{'id': 87, 'title': 'Мурманск'}",none,none,none,none,none,none
+373,27657,False,25.4,2,"{'platform': 7, 'time': 1505734181}",0,Сергей,Ok,"{'id': 209, 'title': 'Франция'}","{'id': 1902227, 'title': 'Strasbourg'}",none,none,none,none,none,none
+374,27659,False,29.6.1984,2,"{'platform': 2, 'time': 1634993528}",1,Артём,Моисеев,"{'id': 1, 'title': 'Россия'}","{'id': 70, 'title': 'Комсомольск-на-Амуре'}",Комсомольск-на-Амуре,none,none,none,1,"Сапер!, Heroes, Fall out, Ведьмак, WoT"
+375,27660,False,7.2.1989,2,"{'platform': 4, 'time': 1634827418}",1,Григорий,Гайченя,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+376,27662,False,1.6.1980,2,"{'platform': 7, 'time': 1258561598}",1,Kazimir,Zhoporezov,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Спб,none,none,none,1,фывафыва
+377,27664,False,none,2,"{'platform': 7, 'time': 1189070492}",1,Денис,Ветчинкин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+378,27665,False,4.9,2,"{'platform': 2, 'time': 1635065150}",1,Me,Overcrowded,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+379,27666,False,30.8,2,"{'platform': 1, 'time': 1634024683}",1,Михаил,Евдокимов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,2,
+380,27669,False,27.11.1985,2,"{'platform': 4, 'time': 1634939860}",1,Коля,Сухарев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+381,27670,False,none,2,"{'platform': 4, 'time': 1635083446}",1,Александр,Петров,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+382,27671,False,4.12,2,"{'platform': 7, 'time': 1248862039}",1,Poul,Grape,none,none,none,none,none,none,none,none
+383,27672,False,21.6,2,"{'platform': 7, 'time': 1635081397}",1,Михаил,Гретченко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+384,27673,False,13.3,1,"{'platform': 7, 'time': 1634311930}",1,Эльвира,Коновалова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+385,27675,False,6.11,1,"{'platform': 1, 'time': 1555133039}",1,Ирина,Базарова,"{'id': 9, 'title': 'США'}","{'id': 6135, 'title': 'Alexandria'}",,none,none,none,4,малоинтеллектуальные
+386,27677,False,18.11.1986,2,"{'platform': 1, 'time': 1634874892}",1,Андрей,Матвеев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+387,27678,False,none,1,"{'platform': 1, 'time': 1634047551}",1,Мария,Меркурьева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+388,27679,False,1.12.1989,2,"{'platform': 4, 'time': 1635084482}",0,Николай,Цыганков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+389,27681,False,24.6.1986,1,"{'platform': 4, 'time': 1635020778}",1,Лайма,Адреналин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,"На своих и чужих нервах, travian.ru, opengame"
+390,27682,False,22.4.1983,2,"{'platform': 7, 'time': 1634931844}",1,Стёпа,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+391,27685,False,none,1,"{'platform': 1, 'time': 1635077568}",1,Оксана,Довыденко,none,none,none,none,none,none,none,none
+392,27690,False,17.12.1973,2,"{'platform': 4, 'time': 1634875593}",0,Arnold,Schwarzenegger,"{'id': 1, 'title': 'Россия'}","{'id': 143, 'title': 'Тольятти'}",Тольятти,none,none,none,4,жизнь
+393,27691,False,none,2,"{'platform': 7, 'time': 1635084450}",1,Олег,Белокур,"{'id': 1, 'title': 'Россия'}","{'id': 158, 'title': 'Челябинск'}",,none,none,none,0,
+394,27692,False,21.1,2,"{'platform': 1, 'time': 1620993033}",1,Станислав,Андреев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+395,27694,False,11.1.1988,2,"{'platform': 4, 'time': 1635084442}",0,Alexey,Efremov,"{'id': 88, 'title': 'Италия'}","{'id': 20833, 'title': 'Verona'}",none,none,none,none,none,none
+396,27699,False,28.2.1983,1,"{'platform': 4, 'time': 1634901690}",1,Мария,Куперштох,"{'id': 1, 'title': 'Россия'}","{'id': 1133, 'title': 'Бердск'}",none,none,none,none,none,none
+397,27700,False,2.3,1,"{'platform': 2, 'time': 1634795141}",1,Nate,Vasekina,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+398,27701,False,11.2.1979,1,"{'platform': 4, 'time': 1634237848}",0,Александра,Семёнова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+399,27702,False,15.2,1,"{'platform': 4, 'time': 1635081667}",1,Юлия,Хайруллова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+400,27703,False,26.12,1,"{'platform': 1, 'time': 1633541868}",1,Евгения,Полина,"{'id': 1, 'title': 'Россия'}","{'id': 46, 'title': 'Горно-Алтайск'}",none,none,none,none,none,none
+401,27704,False,10.11.1984,1,"{'platform': 7, 'time': 1635052695}",1,Мария,Пархатская,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",none,none,none,none,none,none
+402,27705,False,17.3.1982,2,"{'platform': 7, 'time': 1445418687}",1,Андрей,Арефьев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}","Волгоград, Астрахань",none,none,none,0,"Fallout, Arcanum, MOO2, Ascend, Pax Imperia 2, X-Com 1, 2, 3, Extraterrestrial, X2 The Threat, X3:Reunion, JA2  Space Empires V, Space Rangers 2, Real4x, EVE-online ... ..всё надоело WoW ..все тлен."
+403,27708,False,none,1,"{'platform': 1, 'time': 1635072386}",1,Гузель,Латыпова,"{'id': 1, 'title': 'Россия'}","{'id': 60, 'title': 'Казань'}",none,none,none,none,none,none
+404,27711,False,2.10.1988,2,"{'platform': 7, 'time': 1634796642}",1,Максим,Капустин,"{'id': 1, 'title': 'Россия'}","{'id': 168, 'title': 'Якутск'}",none,none,none,none,none,none
+405,27712,False,11.1,1,"{'platform': 7, 'time': 1634716642}",0,Татьяна,Платонова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+406,27714,False,13.12.1982,2,"{'platform': 7, 'time': 1634923540}",0,Игорь,Макунин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+407,27715,False,28.1.1980,1,"{'platform': 2, 'time': 1634662343}",1,Алла,Старыгина,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+408,27717,False,18.8,1,"{'platform': 2, 'time': 1634952043}",1,Katya,Volchansky,"{'id': 9, 'title': 'США'}","{'id': 1661, 'title': 'Washington, D.C.'}",none,none,none,none,none,none
+409,27719,False,9.6.1984,2,"{'platform': 1, 'time': 1635001175}",1,Артур,Бойченко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+410,27721,False,none,2,"{'platform': 1, 'time': 1635080845}",1,Александр,Ломакин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+411,27723,False,8.11.1986,2,"{'platform': 4, 'time': 1635068810}",1,Михаил,Вьюгин,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+412,27724,False,25.6.1984,2,"{'platform': 7, 'time': 1635077412}",1,Николай,Спорышев,"{'id': 1, 'title': 'Россия'}","{'id': 42, 'title': 'Воронеж'}",Иваново,none,none,none,0,
+413,27727,False,12.11.1985,1,"{'platform': 4, 'time': 1635082949}",1,Екатерина,Карпова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+414,27729,False,22.7.1983,2,"{'platform': 4, 'time': 1635070257}",0,Алексей,Димченко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+415,27730,False,27.7.1985,1,"{'platform': 2, 'time': 1634309105}",1,Екатерина,Сельцер,"{'id': 88, 'title': 'Италия'}","{'id': 1955477, 'title': 'Milano'}",none,none,none,none,none,none
+416,27732,False,none,2,"{'platform': 7, 'time': 1634989360}",1,Иван,Алешкевич,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+417,27733,False,16.2.1995,2,"{'platform': 1, 'time': 1635060713}",0,Герман,Вотрин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+418,27736,False,none,1,"{'platform': 7, 'time': 1171328588}",1,Катя,Лутченко,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",,none,none,none,0,
+419,27738,False,1.6.1986,2,"{'platform': 7, 'time': 1537830982}",1,Константин,Соколовский,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Питер,none,none,none,4,"те, в которые ещё не играл"
+420,27739,False,28.3.1987,2,"{'platform': 4, 'time': 1633158899}",1,Александр,Жуков,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Leningrad,none,none,none,4,с противоположным полом
+421,27740,False,none,2,"{'platform': 7, 'time': 1634410219}",1,Александр,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+422,27743,False,3.7.1989,2,"{'platform': 4, 'time': 1635056373}",1,Дмитрий,Цымбал,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Севастополь,none,none,none,4,
+423,27747,False,1.3.2007,2,"{'platform': 4, 'time': 1635082274}",0,Дмитрий,Кабадеев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,4,
+424,27748,False,28.10.1981,2,"{'platform': 7, 'time': 1574241416}",1,Егор,Украинцев,none,none,Екатеринбург,none,none,none,4,
+425,27749,False,none,1,"{'platform': 1, 'time': 1634814118}",1,Екатерина,Калета,none,none,,none,none,none,0,
+426,27751,False,none,2,"{'platform': 7, 'time': 1228289393}",1,Valdies,Adamkus,"{'id': 1, 'title': 'Россия'}",none,,none,none,none,5,
+427,27752,False,23.7.1982,2,"{'platform': 4, 'time': 1635067898}",1,Роман,Невидимов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+428,27753,False,23.3,1,"{'platform': 7, 'time': 1266858211}",0,Татьяна,Алдохина,"{'id': 2, 'title': 'Украина'}","{'id': 314, 'title': 'Киев'}",none,none,none,none,none,none
+429,27755,False,9.6.1983,2,"{'platform': 7, 'time': 1634738005}",1,Евгений,Хохлунов,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",Юрга,none,none,none,4,
+430,27756,False,16.8,1,"{'platform': 7, 'time': 1635073244}",0,Наталья,Механтьева,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+431,27761,False,28.5.1967,1,"{'platform': 2, 'time': 1633951380}",1,Татьяна,Лукьянова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,
+432,27762,False,none,1,"{'platform': 2, 'time': 1635078306}",1,Машенька,Никитина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+433,27764,False,none,1,"{'platform': 7, 'time': 1170321596}",1,Лада,Фомина,"{'id': 1, 'title': 'Россия'}","{'id': 35, 'title': 'Великий Новгород'}",,none,none,none,0,
+434,27765,False,26.5.1971,2,"{'platform': 2, 'time': 1635040769}",1,Andrei,Belomestny,"{'id': 10, 'title': 'Канада'}","{'id': 273, 'title': 'Toronto'}",Parnu,none,none,none,4,
+435,27766,False,23.3,1,"{'platform': 1, 'time': 1610488814}",1,Наталья,Сумакова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}","Москва, Алматы, 10-я площадка космодрома Байконур",none,none,none,0,
+436,27769,False,none,1,"{'platform': 1, 'time': 1635054187}",1,Оля,Бурова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+437,27770,False,none,1,"{'platform': 1, 'time': 1388427659}",1,Татьяна,Вааг,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+438,27771,False,27.3,1,"{'platform': 2, 'time': 1635001517}",1,Юлька,Иванова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+439,27773,False,13.12,1,"{'platform': 2, 'time': 1635069543}",1,Юля,Алёхина,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+440,27775,False,19.5.1981,1,"{'platform': 7, 'time': 1592474077}",0,Мария,Подъяпольская,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+441,27777,False,15.3.1984,1,"{'platform': 7, 'time': 1634713797}",1,Юля,Хохлунова,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",none,none,none,none,none,none
+442,27778,False,26.5,1,"{'platform': 2, 'time': 1635077074}",1,Ольга,Качалова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+443,27780,False,12.6,1,"{'platform': 1, 'time': 1629741695}",0,Света,Фролова,"{'id': 9, 'title': 'США'}","{'id': 1515864, 'title': 'Boston'}",none,none,none,none,none,none
+444,27781,False,6.3.1949,2,"{'platform': 7, 'time': 1410155360}",1,Евгений,Гусев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Актау,none,none,none,4,
+445,27785,False,14.1.1988,2,"{'platform': 7, 'time': 1634992821}",1,Александр,Шелковников,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Питер,none,none,none,1,
+446,27787,False,9.7,1,"{'platform': 2, 'time': 1634971453}",1,Ирина,Тищенко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+447,27789,False,24.5.1984,2,"{'platform': 2, 'time': 1635077364}",1,Фёдор,Анциферов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+448,27790,False,23.12.1983,2,"{'platform': 7, 'time': 1181329487}",1,Денис,Исаев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Moscow city,none,none,none,4,
+449,27791,False,27.1.1984,2,"{'platform': 7, 'time': 1471607960}",1,Андрей,Васильев,"{'id': 1, 'title': 'Россия'}","{'id': 40, 'title': 'Волжский'}",Волжский Волгоградской обл.,none,none,none,4,
+450,27792,False,6.6,1,"{'platform': 2, 'time': 1635084600}",1,Камила,Мухамеджанова,none,none,none,none,none,none,none,none
+451,27794,False,17.3.1989,1,"{'platform': 4, 'time': 1635084467}",0,Диана,Кузнецова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+452,27795,False,22.10,2,"{'platform': 7, 'time': 1284677322}",1,Andrey,Andrey,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+453,27797,False,27.8.1982,1,"{'platform': 7, 'time': 1170686003}",1,Елена,Неёлова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,1,
+454,27799,False,3.12,2,"{'platform': 7, 'time': 1240308774}",1,Алексей,Калюжин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+455,27800,False,none,2,"{'platform': 2, 'time': 1633498727}",1,Фёдор,Бахвалов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+456,27801,False,5.1,2,"{'platform': 7, 'time': 1517539456}",0,Дмитрий,Лялин,"{'id': 9, 'title': 'США'}","{'id': 1707818, 'title': 'Kansas City'}",none,none,none,none,none,none
+457,27802,False,none,1,"{'platform': 2, 'time': 1634959493}",0,Валерия,Харченко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+458,27804,False,15.11,1,"{'platform': 2, 'time': 1634540623}",1,Yulen,Moshinova,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+459,27805,False,11.9,1,"{'platform': 1, 'time': 1545947130}",1,Елена,Глушкина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+460,27806,False,15.5,2,"{'platform': 4, 'time': 1635045217}",1,Сергей,Костюков,"{'id': 1, 'title': 'Россия'}","{'id': 431, 'title': 'Саров'}",Саров,none,none,none,0,
+461,27807,False,none,1,"{'platform': 7, 'time': 1634910526}",1,Виктория,Бурдуковская,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+462,27808,False,17.3.1988,2,"{'platform': 4, 'time': 1635066902}",1,Вадимка,Аврамов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,3,"Dead-Line, мафия, WoW-Голдрин"
+463,27812,False,1.7.1991,1,"{'platform': 4, 'time': 1624744051}",1,Кирилл,Николаев'чев,"{'id': 9, 'title': 'США'}","{'id': 1515864, 'title': 'Boston'}",хуета',none,none,none,0,
+464,27816,False,22.11.1988,1,"{'platform': 7, 'time': 1635083334}",1,Татьяна,Пастухова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ленинград,none,none,none,0,
+465,27817,False,8.4,2,"{'platform': 4, 'time': 1635082914}",1,Егор,Лихачев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}","Чайковский, Норильск",none,none,none,0,жизнь
+466,27819,False,none,2,"{'platform': 7, 'time': 1480018210}",0,Митя,Лагер,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+467,27822,False,11.5.1986,1,"{'platform': 2, 'time': 1634211341}",0,Светлана,Чайкова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+468,27826,False,17.3,1,"{'platform': 7, 'time': 1635076097}",1,Татьяна,Копнина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,1,
+469,27828,False,31.12,1,"{'platform': 2, 'time': 1635083385}",1,Катерина,Шеф,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+470,27829,False,4.3.1986,1,"{'platform': 1, 'time': 1635082523}",1,Юлия,Баскакова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+471,27831,False,5.11,1,"{'platform': 7, 'time': 1635040979}",1,Анна,Трутко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,0,
+472,27833,False,8.1.1986,2,"{'platform': 1, 'time': 1635083282}",0,Денис,Иванов-Павлов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+473,27837,False,23.5.1984,1,"{'platform': 7, 'time': 1635082482}",1,Наталия,Крылова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+474,27838,False,22.6.1980,2,"{'platform': 4, 'time': 1635059645}",1,Александр,Галуза,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+475,27844,False,none,1,"{'platform': 4, 'time': 1635075719}",1,Татьяна,Ульянкина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+476,27847,False,none,1,"{'platform': 7, 'time': 1168845031}",1,Светлана,Степанова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,0,
+477,27848,False,18.11,1,"{'platform': 2, 'time': 1634461285}",0,Галина,Катикова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+478,27850,False,8.7.1984,2,"{'platform': 4, 'time': 1635081352}",1,Игорь,Дворянов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,0,
+479,27851,False,19.3,1,"{'platform': 2, 'time': 1635052240}",1,Тамара,Александрова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+480,27852,False,6.11,2,"{'platform': 4, 'time': 1595663365}",0,Александр,Русанов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,1,
+481,27853,False,none,1,"{'platform': 2, 'time': 1634648199}",1,Надежда,Анцукевич,"{'id': 1, 'title': 'Россия'}","{'id': 72, 'title': 'Краснодар'}",none,none,none,none,none,none
+482,27854,False,none,1,"{'platform': 2, 'time': 1635031724}",0,Виктория,Крайнова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+483,27855,False,4.1.1980,1,"{'platform': 1, 'time': 1633978185}",1,Дарья,Роднина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+484,27856,False,none,2,"{'platform': 7, 'time': 1634979150}",1,Леонид,Попов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+485,27857,False,16.1,2,"{'platform': 4, 'time': 1635084509}",1,Владимир,Солнечный,"{'id': 197, 'title': 'Тринидад и Тобаго'}","{'id': 1917549, 'title': 'Port-of-Spain'}",какой из них роднее..,none,none,none,0,нет
+486,27858,False,none,2,"{'platform': 7, 'time': 1606148773}",1,Влад,Смирнов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+487,27861,False,21.6,1,"{'platform': 4, 'time': 1635082598}",1,Вероника,Барбышова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+488,27864,False,4.4,1,"{'platform': 7, 'time': 1168860149}",1,Светлана,Беспалова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+489,27867,False,15.4,2,"{'platform': 7, 'time': 1635077120}",1,Ильдар,Худайбердин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+490,27868,False,none,2,"{'platform': 7, 'time': 1352618040}",1,Никита,Воробьёв,"{'id': 2, 'title': 'Украина'}","{'id': 292, 'title': 'Одесса'}",,none,none,none,0,
+491,27870,False,none,2,"{'platform': 1, 'time': 1635058072}",1,Мария,Смирнова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+492,27873,False,10.8.1988,1,"{'platform': 2, 'time': 1635084151}",1,Анастасия,Базунова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+493,27875,False,19.1.1984,2,"{'platform': 7, 'time': 1610608037}",1,Ваня,Марченко,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+494,27880,False,28.8,2,"{'platform': 2, 'time': 1635001279}",0,Игорь,Чуркин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+495,27881,False,11.4.1987,2,"{'platform': 4, 'time': 1635070838}",1,Диана,Александрова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+496,27885,False,7.5.1983,2,"{'platform': 7, 'time': 1635021055}",1,Владимир,Китов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Балаково,none,none,none,1,
+497,27886,False,29.7.1981,2,"{'platform': 7, 'time': 1321118303}",1,Александр,Малышев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Арзамас-16,none,none,none,0,В дочки-матери на деньги
+498,27887,False,18.3.1977,2,"{'platform': 4, 'time': 1635081175}",1,Дмитрий,Славин,"{'id': 1, 'title': 'Россия'}","{'id': 857, 'title': 'Долгопрудный'}",Несвиж,none,none,none,0,"Ё-виз, Диксит, Что? Где? Когда?, Футбол"
+499,27889,False,none,1,"{'platform': 4, 'time': 1635080776}",0,Александра,Захарова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",,none,none,none,4,
+500,27890,False,30.12,1,"{'platform': 4, 'time': 1596724031}",1,Нюта,Новоженина,"{'id': 215, 'title': 'Чехия'}","{'id': 1933924, 'title': 'Praha'}",,none,none,none,0,
+501,27892,False,28.8.1954,1,"{'platform': 7, 'time': 1634897170}",1,Наталья,Пижурина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,1,
+502,27896,False,12.12.1983,2,"{'platform': 1, 'time': 1633028209}",1,Михаил,Морозов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+503,27897,False,none,1,"{'platform': 4, 'time': 1635015770}",1,Алена,Семенычева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,веселые
+504,27898,False,23.8.1989,2,"{'platform': 7, 'time': 1300405401}",0,Кирилл,Петропавлов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+505,27899,False,5.2.1985,1,"{'platform': 4, 'time': 1635080927}",0,Надежда,Новицкая,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+506,27900,False,16.3.1987,2,"{'platform': 7, 'time': 1635065327}",1,Илья,Сальников,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+507,27901,False,3.6.1983,2,"{'platform': 7, 'time': 1634893171}",1,Иван,Рыков,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",Новосибирск,none,none,none,4,
+508,27903,False,26.9,1,"{'platform': 1, 'time': 1620799270}",0,Евгения,Королева,"{'id': 1, 'title': 'Россия'}","{'id': 153, 'title': 'Хабаровск'}",none,none,none,none,none,none
+509,27904,False,5.12.1950,1,"{'platform': 7, 'time': 1460119408}",1,Ирина,Широких,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Петербург,none,none,none,1,теннис
+510,27905,False,16.5.1985,2,"{'platform': 4, 'time': 1635071637}",0,Александр,Цветаев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+511,27908,False,none,1,"{'platform': 1, 'time': 1635077079}",1,Татьяна,Кудрявцева,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+512,27909,False,1.7.1983,2,"{'platform': 7, 'time': 1238396343}",1,Кирилл,Крайнев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+513,27910,False,18.2.1988,1,"{'platform': 2, 'time': 1634980970}",1,Marina,Podbivalova,none,none,none,none,none,none,none,none
+514,27911,False,none,1,"{'platform': 1, 'time': 1635074144}",1,Анна,Пархоменко,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",none,none,none,none,none,none
+515,27913,False,20.12.1983,2,"{'platform': 4, 'time': 1634464969}",1,Василий,Хз,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+516,27916,False,6.2.1987,2,"{'platform': 7, 'time': 1631523861}",1,Владимир,Мочалов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,4,"Пул, пляжный воллейбол, кикер, покер, снукер"
+517,27917,False,20.3.1984,2,"{'platform': 1, 'time': 1635018434}",1,Олег,Нагайцев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Сертолово,none,none,none,4,
+518,27918,False,20.10.1985,2,"{'platform': 7, 'time': 1524203710}",1,Andrey,Birjukow,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,4,
+519,27919,False,none,2,"{'platform': 1, 'time': 1635075247}",1,Максим,Мальцев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+520,27921,False,16.4,1,"{'platform': 2, 'time': 1635019409}",1,Арина,Панович,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+521,27922,False,28.9,1,"{'platform': 4, 'time': 1635076247}",1,Ольга,Соболь,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,1,
+522,27923,False,none,2,"{'platform': 7, 'time': 1426683597}",1,Артур,Еркин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,жмурки
+523,27924,False,10.8,2,"{'platform': 4, 'time': 1635079340}",1,Денис,Юферов,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",Тюмень,none,none,none,0,
+524,27928,False,none,2,"{'platform': 7, 'time': 1491739554}",1,Герман,Андреев,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+525,27929,False,27.9,1,"{'platform': 7, 'time': 1634816453}",1,Любовь,Щипцова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+526,27930,False,6.7.1985,1,"{'platform': 7, 'time': 1633092261}",1,Александра,Александрова,"{'id': 209, 'title': 'Франция'}","{'id': 1937764, 'title': 'Paris'}",none,none,none,none,none,none
+527,27931,False,20.7.1986,1,"{'platform': 2, 'time': 1634331009}",1,Ксю,Касавченко,"{'id': 65, 'title': 'Германия'}","{'id': 219, 'title': 'Frankfurt am Main'}",Ленинград,none,none,none,4,
+528,27933,False,1.1,2,"{'platform': 1, 'time': 1630180024}",1,Алексей,Игумнов,"{'id': 9, 'title': 'США'}","{'id': 1017, 'title': 'Chicago'}",Ленинград,none,none,none,4,
+529,27936,False,23.5.1981,2,"{'platform': 2, 'time': 1633573336}",1,Андрей,Ващенко,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Ухта,none,none,none,0,"Prince of Persia, NFS Underground, Counter Strike .."
+530,27938,False,24.5.1984,1,"{'platform': 4, 'time': 1635082387}",1,Кира,Федорова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+531,27939,False,9.8.1988,1,"{'platform': 7, 'time': 1634816058}",1,Евдокия,Соколова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,"Prince of Persia, TES, Warcraft, шутеры, шахматы, карты, Magic the Gathering: Puzzle Quest"
+532,27941,False,5.1,1,"{'platform': 4, 'time': 1635056975}",1,Юлия,Леготина,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+533,27942,False,30.3,1,"{'platform': 2, 'time': 1634585491}",1,Katya,Makarova,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+534,27945,False,none,2,"{'platform': 7, 'time': 1187035882}",1,Петр,Иванов,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+535,27947,False,none,1,"{'platform': 1, 'time': 1620944826}",0,Ольга,Богданова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+536,27948,False,23.2.1979,2,"{'platform': 3, 'time': 1621863412}",1,Александр,Кондрашкин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Серпухов,none,none,none,4,
+537,27953,False,none,2,"{'platform': 7, 'time': 1168853292}",1,Анатолий,Кулешов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,0,
+538,27954,False,20.5,1,"{'platform': 2, 'time': 1634836319}",1,Кристина,Третьякова,"{'id': 1, 'title': 'Россия'}","{'id': 147, 'title': 'Тюмень'}",Навои,none,none,none,0,
+539,27955,False,none,1,"{'platform': 4, 'time': 1635070244}",1,Виктория,Лугиня,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Никель,none,none,none,4,NFS Most Wanted
+540,27959,False,30.1,2,"{'platform': 4, 'time': 1635059900}",0,Невзор,Климов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+541,27966,False,none,2,"{'platform': 2, 'time': 1635083880}",1,Александр,Пурим,"{'id': 1, 'title': 'Россия'}",none,none,none,none,none,none,none
+542,27967,False,7.4,2,"{'platform': 7, 'time': 1634748982}",1,Юрий,Лелюхин,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+543,27974,False,23.10.1987,2,"{'platform': 7, 'time': 1635074684}",1,Тимур,Аранбаев,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+544,27975,False,6.11,1,"{'platform': 1, 'time': 1601492737}",0,Елена,Масленникова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Санкт-Петербург,none,none,none,7,
+545,27976,False,18.4.1984,2,"{'platform': 7, 'time': 1304440308}",1,Asads,Sad,"{'id': 1, 'title': 'Россия'}","{'id': 99, 'title': 'Новосибирск'}",,none,none,none,5,
+546,27978,False,20.6,1,"{'platform': 1, 'time': 1472834730}",1,Елена,Кузовлева,"{'id': 209, 'title': 'Франция'}","{'id': 320, 'title': 'Lyon'}",none,none,none,none,none,none
+547,27979,False,27.6.1983,2,"{'platform': 2, 'time': 1635054268}",1,Анатолий,Шитюк,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+548,27980,False,5.9.1988,1,"{'platform': 2, 'time': 1635025168}",0,Katerina,Kulakova,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+549,27981,False,31.12,1,"{'platform': 7, 'time': 1563315277}",0,Александра,Стрекалова,"{'id': 65, 'title': 'Германия'}","{'id': 458, 'title': 'Berlin'}",none,none,none,none,none,none
+550,27982,False,12.11.1987,2,"{'platform': 2, 'time': 1635070738}",1,Валентин,Беликов,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",Петербург,none,none,none,0,"unreal tournament, quake 3, CS 1.6, HL, NFS, Colin McRae Rally, уважаю RPG"
+551,27984,False,9.9.1989,1,"{'platform': 1, 'time': 1635082312}",1,Оксана,Карамайкина,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+552,27985,False,27.9.1985,1,"{'platform': 4, 'time': 1546118477}",1,Yana,Wagner,"{'id': 65, 'title': 'Германия'}","{'id': 4349741, 'title': ''}",none,none,none,none,none,none
+553,27987,False,24.7,1,"{'platform': 2, 'time': 1634801435}",0,Варя,Новожилова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
+554,27989,False,16.5,1,"{'platform': 2, 'time': 1633782950}",1,Natulya,Indafun,none,none,none,none,none,none,none,none
+555,27990,False,none,1,"{'platform': 1, 'time': 1632243955}",1,Ксения,Лудинец,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+556,27991,False,21.5.1983,2,"{'platform': 7, 'time': 1635078726}",0,Илья,Каверя,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",,none,none,none,4,
+557,27992,False,none,1,"{'platform': 4, 'time': 1635071709}",0,Катерина,Серова,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+558,27993,False,none,2,"{'platform': 2, 'time': 1634973284}",1,Алексей,Инкогнито,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",Москва,none,none,none,1,"покер, монополия, жизнь"
+559,27996,False,23.7,1,"{'platform': 4, 'time': 1635082512}",0,Ольга,Матвейчук,"{'id': 1, 'title': 'Россия'}","{'id': 2, 'title': 'Санкт-Петербург'}",none,none,none,none,none,none
+560,27998,False,none,2,"{'platform': 7, 'time': 1635070839}",0,Андрей,Николаев,"{'id': 1, 'title': 'Россия'}","{'id': 354, 'title': 'Анапа'}",none,none,none,none,none,none
+561,27999,False,none,2,"{'platform': 2, 'time': 1634836632}",0,Нелли,Логинова,"{'id': 1, 'title': 'Россия'}","{'id': 1, 'title': 'Москва'}",none,none,none,none,none,none
