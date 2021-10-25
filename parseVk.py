@@ -10,7 +10,7 @@ LOGIN = os.getenv('LOGIN')
 PASSWORD = os.getenv('PASSWORD')
 ID_RANGE_START = 1000000
 ID_RANGE_END = 50000000
-GROUP_SIZE = 1000
+QUERY_CONSTRAINT = 1000
 COMMON_FIELDS = [
     'id',
     'is_closed',
@@ -25,14 +25,11 @@ PUBLIC_FIELDS = [
     'country',
     'city',
     'home_town',
-    'connections',
-    'contacts',
-    'timezone',
     'relation',
     'games'
 ]
-CLOSED_USERS_FILENAME = 'closed_users.csv'
-OPENED_USERS_FILENAME = 'opened_users.csv'
+PRIVATE_USERS_FILENAME = 'private_users.csv'
+PUBLIC_USERS_FILENAME = 'public_users.csv'
 
 
 def connect_vk():
@@ -55,32 +52,29 @@ def save_users(users, fields, path_to_save):
             new_row = []
             for field in fields:
                 if field not in user or not user[field]:
-                    user[field] = 'none'
+                    user[field] = np.nan
                 new_row.append(user[field])
             data = np.vstack([data, new_row])
     dataFrame = pd.DataFrame(data, columns=fields)
     dataFrame.to_csv(path_to_save)
-    return
 
 
 def parse_users():
     vk = connect_vk()
     ids = []
-    for i in range(GROUP_SIZE):
+    for i in range(QUERY_CONSTRAINT):
         ids.append(np.random.randint(ID_RANGE_START, ID_RANGE_END))
     users = vk.users.get(user_ids=ids, fields=(COMMON_FIELDS + PUBLIC_FIELDS))
-    closed_users = []
-    opened_users = []
+    private_users = []
+    public_users = []
     for user in users:
         if 'deactivated' not in user:
             if user['is_closed'] == 1:
-                closed_users.append(user)
+                private_users.append(user)
             else:
-                opened_users.append(user)
-    save_users(closed_users, COMMON_FIELDS, CLOSED_USERS_FILENAME)
-    save_users(opened_users, COMMON_FIELDS + PUBLIC_FIELDS, OPENED_USERS_FILENAME)
-    return
+                public_users.append(user)
+    save_users(private_users, COMMON_FIELDS, PRIVATE_USERS_FILENAME)
+    save_users(public_users, COMMON_FIELDS + PUBLIC_FIELDS, PUBLIC_USERS_FILENAME)
 
 
 parse_users()
-print()
