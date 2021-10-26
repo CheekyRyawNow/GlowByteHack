@@ -117,19 +117,18 @@ def tag_users(users):
                     if user['sex'] == 2:
                         user['tag'].append('Fishing')
                         user['tag'].append('Hunting')
-            else:
-                if user['last_seen'] != None:
-                    if 'platform' in user['last_seen']:
-                        if user['last_seen']['platform'] != 7:
-                            user['tag'].append('Mobile')
-                        else:
-                            user['tag'].append('Desktop')
-                if user['relation'] == 1 or user['relation'] in range(5, 7):
-                    user['tag'].append('Love_search')
-                elif user['relation'] != 0:
-                    user['tag'].append('Love_in')
-                if user['books'] != None:
-                    user['tag'].append('Books')
+            if user['last_seen'] != None:
+                if 'platform' in user['last_seen']:
+                    if user['last_seen']['platform'] != 7:
+                        user['tag'].append('Mobile')
+                    else:
+                        user['tag'].append('Desktop')
+            if user['relation'] == 1 or user['relation'] in range(5, 7):
+                user['tag'].append('Love_search')
+            elif user['relation'] != 0:
+                user['tag'].append('Love_in')
+            if user['books'] != None:
+                user['tag'].append('Books')
     return users
 
 
