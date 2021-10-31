@@ -38,8 +38,3 @@ def tag_users(users):
                 user['tag'].append('Books')
     return users
 
-
-# DD.MM.YYYY string
-def calculate_age(bdate):
-    today = datetime.date.today()
-    return (today - bdate).year
