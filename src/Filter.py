@@ -2,8 +2,9 @@ import time
 
 
 class Filter:
-    def __init__(self, users):
+    def __init__(self, users, fields):
         self.__users = users
+        self.__fields = fields
 
     def get_filtered_users(self):
         self.__users = self.__filter_users()
@@ -24,14 +25,18 @@ class Filter:
                 users_filtered.append(user)
         return users_filtered
 
+    def __unify_bdate_field(self, user):
+        if 'bdate' in user and len(user['bdate']) < 8:
+            user['bdate'] = None
 
+    def __unify_fields(self, user):
+        for field in self.__fields:
+            if field not in user or not user[field]:
+                user[field] = None
 
     # All objects have the same fields.
     def __uniform_users(self):
         for user in self.__users:
-            if 'bdate' in user and len(user['bdate']) < 8:
-                user['bdate'] = None
-            for field in FIELDS:
-                if field not in user or not user[field]:
-                    user[field] = None
+            self.__unify_bdate_field(user)
+            self.__unify_fields(user)
         return self.__users
