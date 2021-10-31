@@ -13,6 +13,6 @@ fields = [
 
 id_range_start = 1000000
 id_range_end = 50000000
-requests_number = 10
+requests_number_by_thread = 10
 
 users_filename = '../users.csv'

@@ -5,8 +5,8 @@ import Constants
 
 
 if __name__ == '__main__':
-    vk = VKService(Constants.fields, Constants.id_range_start, Constants.id_range_end, Constants.requests_number)
-    users = vk.get_users()
+    vk = VKService(Constants.fields, Constants.id_range_start, Constants.id_range_end, Constants.requests_number_by_thread)
+    users = vk.get_users_threading()
 
     filter = Filter(users, Constants.fields)
     users_filtered = filter.get_filtered_users()
