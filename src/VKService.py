@@ -3,6 +3,7 @@ import os
 import vk_api
 import numpy as np
 
+
 class VKService:
     def __init__(self, fields, idStart, idEnd, requestsNumber):
         self.fields = fields
@@ -36,6 +37,3 @@ class VKService:
             users.extend(vk.users.get(user_ids=ids, fields=self.fields))
 
         return users
-
-v = VKService(['photo_50','verified'], 100000, 420000, 2)
-v.get_users()

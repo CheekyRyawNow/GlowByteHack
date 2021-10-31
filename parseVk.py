@@ -87,59 +87,6 @@ def read_users(path_to_read):
     return users
 
 
-# def parse_users(vk, requests_number):
-#     private_users = []
-#     public_users = []
-#     for i in range(requests_number):
-#         ids = []
-#         for i in range(REQUEST_MAX_USERS):
-#             ids.append(np.random.randint(ID_RANGE_START, ID_RANGE_END))
-#         users = vk.users.get(user_ids=ids, fields=(COMMON_FIELDS + PUBLIC_FIELDS))
-#         for user in users:
-#             if 'deactivated' not in user:
-#                 if user['is_closed'] == 1:
-#                     private_users.append(user)
-#                 else:
-#                     public_users.append(user)
-#     return private_users, public_users
-
-
-# def save_parsed_users(users, fields, path_to_save):
-#     data, dataFrame = read_csv(path_to_save, fields)
-#     for user in users:
-#         if user['id'] not in data[:, 0]:
-#             new_row = []
-#             if 'bdate' in user and len(user['bdate']) < 8:
-#                 user['bdate'] = None
-#             if 'games' in user:
-#                 user['games'] = user['games'][:30]
-#             if 'books' in user:
-#                 user['books'] = user['books'][:30]
-#             for field in fields:
-#                 if field not in user or not user[field]:
-#                     user[field] = None
-#                 new_row.append(user[field])
-#             data = np.vstack([data, new_row])
-#     save_csv(path_to_save, fields, data) 
-#     return users
-
- 
-# def read_csv(path_to_read, fields):
-#     try:
-#         dataFrame = pd.read_csv(path_to_read)
-#         data = dataFrame.to_numpy()
-#         data = np.delete(data, 0, 1)
-#     except FileNotFoundError:
-#         dataFrame = pd.DataFrame(columns=fields)
-#         data = dataFrame.to_numpy()
-#     return data, dataFrame
-
-
-# def save_csv(path_to_save, fields, data):
-#     dataFrame = pd.DataFrame(data, columns=fields)
-#     dataFrame.to_csv(path_to_save)
-
-
 def tag_users(users):
     user_age = 0
     for user in users:
@@ -175,18 +122,6 @@ def tag_users(users):
             if user['books'] != None:
                 user['tag'].append('Books')
     return users
-
-
-# def save_tagged_users(users, fields, path_to_save):
-#     data, dataFrame = read_csv(path_to_save, fields)
-#     for user in users:
-#         if user['id'] not in data[:, 0]:
-#             new_row = []
-#             for field in fields:
-#                 new_row.append(user[field])
-#             data = np.vstack([data, new_row])
-#     save_csv(path_to_save, fields, data)
-
 
 # DD.MM.YYYY string
 def calculate_age(bdate):
