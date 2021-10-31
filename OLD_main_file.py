@@ -1,4 +1,6 @@
-#Not in use right now
+# Not in use right now
+import datetime
+
 
 def tag_users(users):
     user_age = 0
@@ -36,8 +38,8 @@ def tag_users(users):
                 user['tag'].append('Books')
     return users
 
+
 # DD.MM.YYYY string
 def calculate_age(bdate):
-    bdate = bdate.split('.')
     today = datetime.date.today()
-    return today.year - int(bdate[2]) - ((today.month, today.day) < (int(bdate[1]), int(bdate[0])))
+    return (today - bdate).year

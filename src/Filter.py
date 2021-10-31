@@ -1,5 +1,6 @@
 import time
-
+import datetime
+from dateutil import relativedelta as rdelta
 
 class Filter:
     def __init__(self, users, fields):
@@ -18,11 +19,18 @@ class Filter:
         return 'deactivated' not in user and user['is_closed'] == 0 and 'last_seen' in user \
                and not self.__is_inactive(current_date, user['last_seen']['time'])
 
+    # bdate is date object
+    def calculate_age(self, bdate):
+        today = datetime.date.today()
+        dates_difference = rdelta.relativedelta(today, bdate)
+        return dates_difference.years
+
     def __filter_users(self):
         users_filtered = []
         for user in self.__users:
             if self.__is_valid(user):
                 users_filtered.append(user)
+
         return users_filtered
 
     def __unify_bdate_field(self, user):
