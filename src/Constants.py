@@ -14,5 +14,6 @@ fields = [
 id_range_start = 1000000
 id_range_end = 50000000
 requests_number = 10
+users_files_number = 10
 
-users_filename = '../users.csv'
+users_filename = './users/users_'
