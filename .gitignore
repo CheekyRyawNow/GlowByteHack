@@ -1,4 +1,7 @@
 .idea
 .env
 vk_config.v2.json
+__pycache__
 closed_users.csv
+venv
+*users*.*
