@@ -6,12 +6,12 @@ from VKThread import VKThread
 
 
 class VKService:
-    def __init__(self, fields, idStart, idEnd, requestsNumber):
+    def __init__(self, fields, id_start, id_end, requests_number):
         self.fields = fields
-        self.id_range_start = idStart
-        self.id_range_end = idEnd
+        self.id_range_start = id_start
+        self.id_range_end = id_end
         self.request_max_users = 1000
-        self.requests_number = requestsNumber
+        self.requests_number = requests_number
         self.thread_count = 4
 
         load_dotenv()
