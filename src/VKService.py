@@ -3,6 +3,7 @@ import os
 import vk_api
 import numpy as np
 from VKThread import VKThread
+from Filter import Filter
 
 
 class VKService:
@@ -58,3 +59,41 @@ class VKService:
             ids = self.__get_random_ids()
             users.extend(vk.users.get(user_ids=ids, fields=self.fields))
         return users
+
+    def get_users_additional(self, users):
+        vk = self.__connect_vk()
+        users_new = []
+        for user in users:
+            users_new.append(vk.users.get(user_ids=user['id'], fields=self.fields))
+            # groups.get
+        return users_new
+
+    def update_users(self, users, fields_to_update):
+        raise Exception('This block is not finished yet')
+
+    def send_message(self, users):
+        user_age = 0
+        greeting_word = None
+        main_part = None 
+        conclusion = None
+        # a set of messages for every tag (tag_message)
+        # NLP for names check and processing
+        for user in users:
+            if user['can_send_private_message'] == 1:
+                if user['bdate'] != None:
+                    print()
+                    # user_age = Filter.calculate_age()
+                    # <= 27:
+                    #   greeting_word = Привет, %first_name%
+                    #   conclusion = что-нибудь для зумеров
+                    # 28-60:
+                    #   greeting_word = %first_name%!
+                    #   conclusion = что-нибудь молодежное крутецкое
+                    # > 60
+                    #   greeting_word = Здравствуйте, %frist_name%
+                    #   conclusion = С наилучшими пожеланиями, %company_name%
+                    # Not specified:
+                    #   greeting_word = Здравствуйте!
+                # for tag in user['tag']:
+                #   main.part = main.part + tag_message[tag] -- not +, but join()
+        return ''.join(greeting_word, main_part, conclusion)

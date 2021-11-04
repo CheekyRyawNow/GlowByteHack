@@ -7,6 +7,9 @@ class Filter:
         self.__users = users
         self.__fields = fields
 
+    def set_users(self, users):
+        self.__users = users
+
     def get_filtered_users(self):
         self.__users = self.__filter_users()
         return self.__uniform_users()

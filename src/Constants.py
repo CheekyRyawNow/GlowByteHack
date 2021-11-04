@@ -10,6 +10,10 @@ fields = [
     'city',
     'relation'
 ]
+fields_additional = [
+    'counters'
+]
+tag = ['tag']
 
 id_range_start = 100000000
 id_range_end = 680000000

@@ -10,10 +10,6 @@ class TagService:
         self.__users = users
 
 
-    def get_tagged_users(self, users):
-        self.__tag_users(users)
-        raise Exception('ERROR: this block is not finished yet')
-
-
-    def __tag_users(self, users):
+    def get_tagged_users(self):
+        
         raise Exception('ERROR: this block is not finished yet')
