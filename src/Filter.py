@@ -1,6 +1,5 @@
 import time
 import datetime
-from dateutil import relativedelta as rdelta
 
 class Filter:
     def __init__(self, users, fields):
@@ -23,10 +22,10 @@ class Filter:
                and not self.__is_inactive(current_date, user['last_seen']['time'])
 
     # bdate is date object
-    def calculate_age(self, bdate):
+    def calculate_age(bdate):
+        bdate = bdate.split('.')
         today = datetime.date.today()
-        dates_difference = rdelta.relativedelta(today, bdate)
-        return dates_difference.years
+        return today.year - int(bdate[2]) - ((today.month, today.day) < (int(bdate[1]), int(bdate[0])))
 
     def __filter_users(self):
         users_filtered = []

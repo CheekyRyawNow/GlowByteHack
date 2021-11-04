@@ -24,15 +24,15 @@ def parse_users():
 
 
 def tag_users():
-    # tag_service = TagService(None)
+    tag_service = TagService(None)
     for i in range(Constants.users_files_number):
         file_service.set_users_filename(Constants.users_filename + str(i))
         users = file_service.read_users()
         
         tag_service.set_users(users)
-        users_tagged = TagService.get_tagged_users(users)
+        users_tagged = tag_service.get_tagged_users()
 
-        file_service.set_users_filename(file_service.get_users_filename + '_tagged')
+        file_service.set_users_filename(file_service.get_users_filename() + '_tagged')
         file_service.save_users(users_tagged, Constants.fields + Constants.tag)
 
 
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     file_service = FileService(Constants.users_filename)
     filter = Filter(None, Constants.fields)
 
-    # parse_users()
+    parse_users()
     tag_users()
     
     print(time.time() - start_time)

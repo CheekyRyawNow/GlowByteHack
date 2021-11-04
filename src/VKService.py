@@ -77,6 +77,7 @@ class VKService:
         main_part = None 
         conclusion = None
         # a set of messages for every tag (tag_message)
+        # a set of messages for gretting_word, comclusion, main_part
         # NLP for names check and processing
         for user in users:
             if user['can_send_private_message'] == 1:
