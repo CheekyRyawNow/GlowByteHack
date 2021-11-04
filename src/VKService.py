@@ -4,6 +4,7 @@ import vk_api
 import numpy as np
 from VKThread import VKThread
 from Filter import Filter
+import gc
 
 
 class VKService:
@@ -62,11 +63,18 @@ class VKService:
 
     def get_users_additional(self, users):
         vk = self.__connect_vk()
-        users_new = []
+        counters = []
+        groups = []
         for user in users:
-            users_new.append(vk.users.get(user_ids=user['id'], fields=self.fields))
-            # groups.get
-        return users_new
+            user_object_counters = vk.users.get(user_ids=user['id'], fields='counters')
+            counters.append(user_object_counters[0]['counters'])
+            user_object_groups = vk.groups.get(user_id=user['id'], extended=1, filter='publics')
+            groups.append(user_object_groups['items'])
+
+            del user_object_counters
+            del user_object_groups
+            gc.collect()
+        return counters, groups
 
     def update_users(self, users, fields_to_update):
         raise Exception('This block is not finished yet')
