@@ -3,7 +3,6 @@ import os
 import vk_api
 import numpy as np
 from VKThread import VKThread
-from Filter import Filter
 import gc
 
 
@@ -12,8 +11,9 @@ class VKService:
         self.fields = fields
         self.id_range_start = id_start
         self.id_range_end = id_end
-        self.request_max_users = 1000
-        self.requests_number = requests_number
+        self.request_max_users = 10
+        # self.requests_number = requests_number
+        self.requests_number = 1
         self.thread_count = 4
 
         load_dotenv()
@@ -57,40 +57,57 @@ class VKService:
         vk = self.__connect_vk()
         users = []
         for i in range(self.requests_number):
-            ids = self.__get_random_ids()
+            # ids = self.__get_random_ids()
+            ids = 155909408
             users.extend(vk.users.get(user_ids=ids, fields=self.fields))
         return users
 
     def get_users_additional(self, users):
         vk = self.__connect_vk()
-        counters = []
-        groups = []
         for user in users:
+            user['counters'] = []
+            # user['groups'] = []
+
             user_object_counters = vk.users.get(user_ids=user['id'], fields='counters')
-            counters.append(user_object_counters[0]['counters'])
-            user_object_groups = vk.groups.get(user_id=user['id'], extended=1, filter='publics')
-            groups.append(user_object_groups['items'])
+            # user_object_groups = vk.groups.get(user_id=user['id'], extended=0, filter='publics')
+
+            user['counters'] = user_object_counters[0]['counters']
+            # user['groups'] = user_object_groups['items']
 
             del user_object_counters
-            del user_object_groups
+            # del user_object_groups
             gc.collect()
-        return counters, groups
+        return users
 
     def update_users(self, users, fields_to_update):
         raise Exception('This block is not finished yet')
 
     def send_message(self, users):
-        user_age = 0
-        greeting_word = None
-        main_part = None 
-        conclusion = None
+        vk = self.__connect_vk
         # a set of messages for every tag (tag_message)
         # a set of messages for gretting_word, comclusion, main_part
         # NLP for names check and processing
         for user in users:
             if user['can_send_private_message'] == 1:
-                if user['bdate'] != None:
-                    print()
+                greeting = {
+                'not_specified': 'Здравствуйте!', 
+                'young_people': f'Привет, {user["first_name"]}!',
+                'economically_active': f'{user["first_name"]}, добрый день!',
+                'nature_age': f'Добрый день, {user["first_name"]}',
+                'old_people': f'Шалом, дед!'
+                }
+                if 'music' in user['tag']:
+                    main_part = 'Купи музыку, бажожьда'
+                elif 'fishing' in user['tag']:
+                    main_part = 'Купи удочку, бажожьда'
+                conclusion = {
+                'not_specified': 'Еще больше предложений каждую среду', 
+                'young_people': 'Подписывайся на новости, чтобы ничего не пропустить',
+                'economically_active': 'Группа telegram: @fakeskanretail',
+                'nature_age': 'Выгодные предложения на нашем сайте: fakedomain.skam.ru',
+                'old_people': 'Не забудьте выпить таблетки!'
+                }
+                vk.messages_send(user_id=user['id'], message=' '.join(greeting[user['tag']['age']], main_part, conclusion[user['tag']['age']]))
                     # user_age = Filter.calculate_age()
                     # <= 27:
                     #   greeting_word = Привет, %first_name%
@@ -105,4 +122,3 @@ class VKService:
                     #   greeting_word = Здравствуйте!
                 # for tag in user['tag']:
                 #   main.part = main.part + tag_message[tag] -- not +, but join()
-        return ''.join(greeting_word, main_part, conclusion)

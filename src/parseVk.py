@@ -24,18 +24,22 @@ def parse_users():
 
 
 def tag_users():
-    tag_service = TagService(None)
     for i in range(Constants.users_files_number):
         file_service.set_users_filename(Constants.users_filename + str(i))
         users = file_service.read_users()
+        file_service.set_users_filename(file_service.get_users_filename() + '_additional')
+        users_additional = file_service.read_users()
+        file_service.set_users_filename(file_service.get_users_filename() + '_tagged')
+        users_tagged = file_service.read_users()
 
-        user_counters, user_groups = vk.get_users_additional(users)
-        
-        # tag_service.set_users(users)
-        # users_tagged = tag_service.get_tagged_users()
+        users_additional = vk.get_users_additional(users)
+        file_service.set_users_filename(file_service.get_users_filename() + '_additional')
+        file_service.save_users(users_additional, Constants.fields + Constants.fields_additional)
 
-        # file_service.set_users_filename(file_service.get_users_filename() + '_tagged')
-        # file_service.save_users(users_tagged, Constants.fields + Constants.tag)
+        users_tagged = TagService.get_tagged_users(users_additional)
+
+        file_service.set_users_filename(file_service.get_users_filename() + '_tagged')
+        file_service.save_users(users_tagged, Constants.fields + Constants.tag)
 
 
 if __name__ == '__main__':
@@ -45,7 +49,14 @@ if __name__ == '__main__':
     file_service = FileService(Constants.users_filename)
     filter = Filter(None, Constants.fields)
 
+    users = vk.get_users()
+    users_additional = vk.get_users_additional(users)
+    users_tagged = TagService.get_tagged_users(users_additional)
+    vk.send_message(users_tagged)
+    
+
     # parse_users()
-    tag_users()
+    # tag_users()
+    
     
     print(time.time() - start_time)
