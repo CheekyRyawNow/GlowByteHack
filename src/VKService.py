@@ -83,12 +83,13 @@ class VKService:
         raise Exception('This block is not finished yet')
 
     def send_message(self, users):
-        vk = self.__connect_vk
+        vk = self.__connect_vk()
         # a set of messages for every tag (tag_message)
         # a set of messages for gretting_word, comclusion, main_part
         # NLP for names check and processing
         for user in users:
-            if user['can_send_private_message'] == 1:
+            if user['can_write_private_message'] == 1:
+                main_part = None
                 greeting = {
                 'not_specified': 'Здравствуйте!', 
                 'young_people': f'Привет, {user["first_name"]}!',
@@ -96,10 +97,10 @@ class VKService:
                 'nature_age': f'Добрый день, {user["first_name"]}',
                 'old_people': f'Шалом, дед!'
                 }
-                if 'music' in user['tag']:
-                    main_part = 'Купи музыку, бажожьда'
+                if 'audios' in user['tag']:
+                    main_part = 'Купи музыку, бажожьда.'
                 elif 'fishing' in user['tag']:
-                    main_part = 'Купи удочку, бажожьда'
+                    main_part = 'Купи удочку, бажожьда.'
                 conclusion = {
                 'not_specified': 'Еще больше предложений каждую среду', 
                 'young_people': 'Подписывайся на новости, чтобы ничего не пропустить',
@@ -107,7 +108,8 @@ class VKService:
                 'nature_age': 'Выгодные предложения на нашем сайте: fakedomain.skam.ru',
                 'old_people': 'Не забудьте выпить таблетки!'
                 }
-                vk.messages_send(user_id=user['id'], message=' '.join(greeting[user['tag']['age']], main_part, conclusion[user['tag']['age']]))
+                message_to_send = ' '.join((greeting[user['age']], main_part, conclusion[user['age']]))
+                vk.messages.send(user_id=user['id'], message=message_to_send)
                     # user_age = Filter.calculate_age()
                     # <= 27:
                     #   greeting_word = Привет, %first_name%
